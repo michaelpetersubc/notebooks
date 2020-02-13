@@ -1,0 +1,969 @@
+aid,institution_id,from_institution_id,from_oid,from_name,from_ranking,from_latitude,from_longitude,aid,postype,job_inst,institution_id,to_institution_id,to_oid,startdate,to_rank,to_latitude,to_longitude
+35927,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,35927,3,"University of Essex ",19284,366,428,2003-01-11,49,51.8777259,0.9472069
+236,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,236,9,"University of Wisconsin-Madison",19047,73,85,2008-09-01,31,43.0765006,-89.4052976
+614,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,614,7,"University of Pennsylvania",19104,137,157,2008-01-01,6,39.953339,-75.194527
+731,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,731,1,"Duke University",19998,17,24,2008-01-01,15,36.0014258,-78.9382286
+895,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,895,7,"University of Cambridge",19093,120,139,2011-09-01,42,52.2010116,0.1084907
+920,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,920,1,"Boston University",19374,29,37,2008-09-01,30,42.3509108,-71.1054953
+1073,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,1073,1,"Hong Kong University of Science & Technology",19812,68,1176,2004-08-01,66,22.3363998,114.2654655
+1874,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,1874,1,"Yale University",19217,290,336,2009-09-01,11,41.3138919,-72.9240345
+1886,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,1886,1,"Boston College",19240,312,362,2009-01-01,69,42.3362748,-71.168524
+1976,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,1976,1,"Boston University",19374,29,37,2009-01-01,30,42.3509108,-71.1054953
+2149,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2149,2,"Duke University",19998,17,24,2016-07-01,15,36.0014258,-78.9382286
+2181,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2181,1,"USC Department of Economics",19231,125,354,2019-01-01,51,34.0223519,-118.285117
+2310,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2310,1,"University of Toronto",19013,32,40,2009-07-01,19,43.6660209,-79.3998235
+2354,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2354,1,"University of Southern California",19231,125,354,2016-01-01,51,34.0223519,-118.285117
+2479,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2479,7,"Princeton University",19622,747,886,2009-01-01,13,40.3490675,-74.6555328
+2506,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2506,7,"Georgetown University",19065,85,1419,2009-08-01,60,38.907565,-77.073308
+2627,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2627,1,"Washington University",21857,644,760,2010-01-01,84,38.649651,-90.310615
+2831,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2831,1,"University of Chicago",21527,1044,1275,2005-01-01,2,41.7854555,-87.596997
+3869,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,3869,6,"Cornell University",19384,361,603,2009-09-01,18,42.4473742,-76.4822234
+4008,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4008,1,"University of New South Wales",19059,93,107,2010-09-01,58,-33.9167956,151.2295532
+4217,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4217,2,"Stanford University",19051,78,92,2017-01-01,3,37.4284807,-122.1658358
+4334,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4334,9,"Columbia University",19007,22,29,2013-09-01,10,40.8077151,-73.9596015
+4557,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4557,1,"Boston University",19837,976,1194,2010-01-01,30,42.3495441,-71.0995129
+4699,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4699,6,"Harvard University",19275,350,406,2010-01-01,1,42.376417,-71.1182727
+4761,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4761,1,"Pennsylvania State University",19102,134,154,2010-01-01,79,40.797324,-77.868361
+5479,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,5479,9,"University of Southern California",19231,125,354,2013-01-01,51,34.0223519,-118.285117
+5499,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,5499,1,"University of Toronto",19013,32,40,2006-01-01,19,43.6660209,-79.3998235
+7306,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7306,1,"Cornell University",19384,361,603,2017-01-01,18,42.4473742,-76.4822234
+7525,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7525,1,"Washington University in Saint Louis",19046,72,84,2011-07-01,84,38.648238,-90.3048746
+7689,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7689,1," Cornell University",19330,440,508,2015-07-01,18,42.4496928,-76.47905
+7704,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7704,9,"NYU Stern School of Business",19620,742,881,2017-09-01,9,40.7290549,-73.9965233
+7797,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7797,1,"University of Michigan",19128,2,186,2008-01-01,14,42.2738566,-83.7375824
+8025,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,8025,1,"University of Chicago ",19357,339,394,2011-01-01,2,41.7899222,-87.5973383
+8537,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,8537,1,"New York University",19470,144,167,2012-01-01,9,40.7290047,-73.9951385
+8791,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,8791,1,"Duke University",19998,17,24,2011-07-01,15,36.0014258,-78.9382286
+8834,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,8834,1,"University of Maryland",18997,13,20,2011-01-01,24,38.9847953,-76.9440122
+9217,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,9217,1,"Harvard University",19275,350,406,2003-07-01,1,42.376417,-71.1182727
+9346,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,9346,1,"Duke University",19998,17,24,2003-01-01,15,36.0014258,-78.9382286
+9426,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,9426,1,"London School of Economics",19277,351,407,2015-01-01,5,51.5136884,-0.1167007
+10705,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,10705,1,"Boston University",19374,29,37,2012-01-01,30,42.3509108,-71.1054953
+11036,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,11036,1,"Duke University  ",19998,17,24,2012-01-01,15,36.0014258,-78.9382286
+11340,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,11340,2," University of Warwick",19097,124,143,2012-09-01,33,52.3810194,-1.5630489
+11693,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,11693,1,"University of Vienna",19344,254,540,2012-01-01,76,48.2131855,16.3600504
+12264,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,12264,2,"University of Oxford ",20578,874,1050,2019-01-01,8,51.7535674,-1.2684111
+14690,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,14690,1,"University College London",19176,90,235,2013-09-01,16,51.526067,-0.133295
+14957,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,14957,2,"University of Oxford",19150,186,217,2013-09-01,8,51.7574088,-1.2468664
+15655,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,15655,1,UBC,19028,57,67,2013-07-01,47,49.271064,-123.250418
+15983,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,15983,1,"University of Rochester",19134,161,189,2003-07-01,81,43.1305531,-77.6260033
+16051,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16051,1,"University of Copenhagen",19633,761,902,2013-01-01,53,55.6878461,12.5696519
+16104,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16104,1,"Université Toulouse 1 Capitole",19138,86,203,2013-01-01,21,43.6067724,1.4371122
+16125,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16125,1,"Yale University",19217,290,336,2015-01-01,11,41.3138919,-72.9240345
+16135,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16135,1,"Cornell University",19383,361,420,2013-01-01,18,42.4534492,-76.4735027
+16297,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16297,7,"Stern School of Business",19620,742,881,2018-01-01,9,40.7290549,-73.9965233
+16419,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,16419,2,"University of Essex ",19284,366,428,2013-01-01,49,51.8777259,0.9472069
+18917,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,18917,7,"Princeton University ",19622,747,886,2014-09-01,13,40.3490675,-74.6555328
+18957,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,18957,1,"National University of Singapore",19329,439,507,2015-01-01,27,1.2966426,103.7763939
+19040,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,19040,1,"Stanford University",19051,78,92,2003-01-01,3,37.4284807,-122.1658358
+20459,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,20459,1,"University of Chicago ",19357,339,394,2016-01-01,2,41.7899222,-87.5973383
+20481,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,20481,1,"Simon Fraser University ",19213,286,332,2014-09-01,88,49.2800145,-122.9200592
+20770,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,20770,1,"Cornell University",19384,361,603,2014-01-01,18,42.4473742,-76.4822234
+20805,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,20805,6,"UC Berkeley",19220,296,343,2014-06-01,4,37.871558,-122.2537809
+21500,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,21500,6,"university of cambridge",19093,120,139,2014-01-01,42,52.2010116,0.1084907
+24155,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,24155,1,"University of Chicago",21527,1044,1275,2015-07-01,2,41.7854555,-87.596997
+24363,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,24363,1,"Dartmouth College",19376,510,593,2003-01-01,83,43.7058278,-72.2899576
+24804,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,24804,1,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+24979,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,24979,NULL,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+25000,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25000,1,"northwestern university",19003,18,25,2016-07-01,12,42.0571538,-87.6716364
+25036,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25036,6,"Cornell University",19383,361,420,2015-01-01,18,42.4534492,-76.4735027
+25326,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25326,1,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+25373,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25373,1,"michigan state university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+25867,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25867,1,"cornell university",19384,361,603,2016-07-01,18,42.4473742,-76.4822234
+26382,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,26382,1,"georgetown university",19062,85,99,2016-07-01,60,38.9089853,-77.0734746
+28530,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,28530,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+28589,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,28589,3,"Cornell University",19330,440,508,2016-07-01,18,42.4496928,-76.47905
+28960,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,28960,1,"new york university",19470,144,167,2017-07-01,9,40.7290047,-73.9951385
+29368,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,29368,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+29550,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,29550,6,"Yale University",19217,290,336,2016-09-01,11,41.3138919,-72.9240345
+29763,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,29763,1,"university of vienna",19342,254,298,2017-07-01,76,48.219108,16.3667991
+29792,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,29792,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+30123,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30123,7,"Harvard University",19275,350,406,2016-09-11,1,42.376417,-71.1182727
+30323,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30323,6,"New York University",19470,144,167,2014-10-01,9,40.7290047,-73.9951385
+30604,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30604,7,"University of Melbourne",19215,288,334,2016-09-01,42,-37.8013795,144.9593986
+30978,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30978,1,"Tilburg University",19438,573,669,2010-09-11,22,51.5627987,5.042274
+32944,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,32944,7,"University of Pennsylvania",19104,137,157,2005-01-01,6,39.953339,-75.194527
+33616,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,33616,1,"University of Cambridge",19093,120,139,2017-01-01,42,52.2010116,0.1084907
+33825,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,33825,6,"Harvard University ",19275,350,406,2017-01-01,1,42.376417,-71.1182727
+34833,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,34833,1,"Columbia University",19007,22,29,2017-01-01,10,40.8077151,-73.9596015
+36049,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,36049,6,"Yale University",19217,290,336,2018-01-01,11,41.3138919,-72.9240345
+36907,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,36907,9,"University of Cambridge",19093,120,139,2018-07-01,42,52.2010116,0.1084907
+38677,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,38677,6,UCLA,21842,6,36,2018-01-01,20,34.068921,-118.4451811
+38798,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,38798,1,"NYU Stern School of Business",19620,742,881,2019-01-01,9,40.7290549,-73.9965233
+38957,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,38957,6,"Yale University",19217,290,336,2018-01-01,11,41.3138919,-72.9240345
+171,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,171,1,"Vanderbilt University Medical Center",19273,347,793,2016-01-01,88,36.1447034,-86.8026551
+370,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,370,1,"Shanghai University of Finance and Economics",20251,1067,1306,2010-01-01,56,31.306911,121.496763
+402,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,402,15,"Hebrew University of Jerusalem",19736,866,1042,2016-01-01,79,31.7942804,35.2429186
+490,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,490,1,"university of wisconsin",19047,73,85,2009-07-01,31,43.0765006,-89.4052976
+505,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,505,9,"University of Michigan",21865,1096,1357,2008-08-01,14,42.2806797,-83.7302902
+542,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,542,4," University of Cologne",19444,579,676,2009-01-01,38,50.9281625,6.9288192
+662,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,662,15,"Yale university ",19217,290,336,2010-09-01,11,41.3138919,-72.9240345
+828,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,828,15,"university of michigan",19128,2,186,2016-09-01,14,42.2738566,-83.7375824
+1197,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,1197,7,"university of california",21842,6,36,2008-09-01,20,34.068921,-118.4451811
+1637,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,1637,1,"George Washington University",19306,411,476,2009-01-01,84,38.8985287,-77.0474064
+1784,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,1784,1,"University of Pennsylvania",19106,137,908,2016-01-01,6,39.9522188,-75.1932137
+1807,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,1807,15,"Stanford University",19051,78,92,2008-04-01,3,37.4284807,-122.1658358
+2121,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,2121,2,"tsinghua university",19407,535,623,2010-01-01,86,39.999567,116.331991
+2163,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,2163,6,"Carnegie Mellon University",19126,158,185,2009-01-01,51,40.4441758,-79.9455565
+2852,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,2852,1,"Michigan State University",19809,33,41,2017-01-01,73,42.7323099,-84.4790719
+2919,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,2919,1,"University of Virginia ",19043,70,83,2003-01-01,57,38.034837,-78.5064309
+3035,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,3035,2,"Tsinghua University",19407,535,623,2010-03-08,86,39.999567,116.331991
+3172,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,3172,1,"Carnegie Mellon University",19127,158,522,2010-01-01,51,40.4410936,-79.9422009
+3341,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,3341,1,"Australia National University",19732,67,1035,2010-01-01,78,-35.2766747,149.1234344
+3476,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,3476,2,"university of wisconsin",19047,73,85,2010-01-01,31,43.0765006,-89.4052976
+3556,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,3556,1,"Peking University",21022,1043,1273,2010-08-01,63,39.986913,116.3058739
+4600,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,4600,2,"Johns Hopkins University",19019,40,49,2011-01-01,66,39.3251692,-76.6227679
+4854,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,4854,9,"Boston College",19240,312,362,2010-01-01,69,42.3362748,-71.168524
+5006,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5006,1,"Carnegie Mellon University",19126,158,185,2010-08-01,51,40.4441758,-79.9455565
+5094,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5094,1,"Georgetown University",19062,85,99,2003-01-01,60,38.9089853,-77.0734746
+5137,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5137,10,"University of Michigan",19128,2,186,2007-01-01,14,42.2738566,-83.7375824
+5243,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5243,9,"University of Michigan",21865,1096,1357,2011-01-01,14,42.2806797,-83.7302902
+5256,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5256,1,"NATIONAL UNIVERSITY OF SINGAPORE ",19329,439,507,2010-01-01,27,1.2966426,103.7763939
+5287,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,5287,15,"University of Pennsylvania",19106,137,908,2013-07-01,6,39.9522188,-75.1932137
+6820,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,6820,9,"University of Michigan",19132,2,1351,2011-08-01,14,42.2722976,-83.7403873
+6963,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,6963,1,"Johns Hopkins University",19737,867,1043,2012-01-01,66,38.90813,-77.040279
+7019,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,7019,7,"University of maryland",18997,13,20,2012-03-08,24,38.9847953,-76.9440122
+7484,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,7484,1,"University of maryland",18997,13,20,2011-08-01,24,38.9847953,-76.9440122
+8010,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,8010,1,"Carnegie Mellon University",19126,158,185,2015-03-08,51,40.4441758,-79.9455565
+8204,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,8204,15,"Northwestern University",19003,18,25,2012-03-08,12,42.0571538,-87.6716364
+9110,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,9110,1,"University of Toronto",19013,32,40,2012-01-01,19,43.6660209,-79.3998235
+9112,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,9112,15,"University of Michigan",19128,2,186,2008-01-01,14,42.2738566,-83.7375824
+10865,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,10865,1,"University of Washington",19068,91,105,2004-01-01,69,47.6571109,-122.3083677
+11298,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,11298,7,"University of Maryland",18997,13,20,2015-01-01,24,38.9847953,-76.9440122
+11415,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,11415,1,"National University of Singapore",19329,439,507,2012-01-01,27,1.2966426,103.7763939
+11467,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,11467,15,"DARTMOUTH COLLEGE",19376,510,593,2012-08-01,83,43.7058278,-72.2899576
+11614,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,11614,1,"Tsinghua University",19407,535,623,2012-01-01,86,39.999567,116.331991
+11880,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,11880,1,"National University of Singapore",19329,439,507,2013-03-08,27,1.2966426,103.7763939
+12132,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,12132,1,"Arizona State University",19900,370,432,2012-01-01,72,33.4166016,-111.9341819
+12163,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,12163,6,"University of Oxford",19150,186,217,2012-01-01,8,51.7574088,-1.2468664
+12191,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,12191,10,"University of Michigan",19128,2,186,2015-01-01,14,42.2738566,-83.7375824
+13205,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,13205,1,"Peking University",21022,1043,1273,2013-01-01,63,39.986913,116.3058739
+13553,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,13553,1,"Peking University",21022,1043,1273,2013-01-01,63,39.986913,116.3058739
+14994,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,14994,15,"Massachusetts Institute of Technology",19238,311,361,2015-03-01,7,42.3606249,-71.0835567
+15148,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,15148,15,"National University of Singapore",19329,439,507,2013-01-01,27,1.2966426,103.7763939
+15286,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,15286,2,"Purdue University",19049,74,177,2008-01-01,93,40.4236941,-86.9110578
+15384,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,15384,6,"Ohio State University",19318,465,499,2011-10-01,60,40.0017935,-83.0093428
+15391,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,15391,9,"Michigan State University",19810,33,1151,2015-03-08,73,42.7310122,-84.4793057
+15648,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,15648,1,"Duke University",19998,17,24,2014-01-01,15,36.0014258,-78.9382286
+17065,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,17065,15,"University of Pennsylvania",19104,137,157,2017-09-01,6,39.953339,-75.194527
+17187,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,17187,1," Johns Hopkins University",21860,1080,1328,2013-01-01,66,39.327396,-76.6216163
+17595,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,17595,1,"Peking University",19530,651,767,2014-03-08,63,40.039255,116.346939
+17660,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,17660,7,"University of Michigan",21865,1096,1357,2011-09-01,14,42.2806797,-83.7302902
+18701,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,18701,1,"University of Maryland",18997,13,20,2015-08-01,24,38.9847953,-76.9440122
+18806,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,18806,7,"University of Maryland-College Park",18997,13,20,2018-01-01,24,38.9847953,-76.9440122
+19646,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,19646,1,"University of Southern California",19231,125,354,2014-01-01,51,34.0223519,-118.285117
+20483,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20483,1,"National University of Singapore",19329,439,507,2014-01-01,27,1.2966426,103.7763939
+20487,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20487,2,"Cornell University",19383,361,420,2015-03-08,18,42.4534492,-76.4735027
+20541,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20541,1,"Harvard University",19275,350,406,2019-01-01,1,42.376417,-71.1182727
+20700,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20700,1,sauder,19030,57,631,2014-07-01,47,49.2648239,-123.2537939
+20857,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20857,6,"Institute for Healthcare Policy and Innovation ",21865,1096,1357,2014-01-01,14,42.2806797,-83.7302902
+20878,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20878,1,"Vanderbilt University",19272,347,403,2016-01-01,88,36.1482018,-86.8027714
+20923,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,20923,6,"University of Chicago",19359,339,942,2014-01-01,2,41.7904792,-87.5967462
+21225,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,21225,9,"University of Washington",19068,91,105,2016-01-01,69,47.6571109,-122.3083677
+21531,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,21531,1,"Johns Hopkins University  ",19019,40,49,2016-09-01,66,39.3251692,-76.6227679
+21664,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,21664,2,"university of Toronto",19013,32,40,2014-01-01,19,43.6660209,-79.3998235
+22111,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,22111,1,"London Business School",19430,564,660,2014-01-01,98,51.5261552,-0.160668
+22226,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,22226,1,"The Pennsylvania State University",19537,658,775,2014-01-01,79,40.8038071,-77.8652101
+23229,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,23229,9,"UNIVERSITY OF CHICAGO LAW SCHOOL",19358,339,570,2014-01-01,2,41.7899222,-87.5973383
+23485,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,23485,9,"Harvard University Center for the Environment",19275,350,406,2015-01-01,1,42.376417,-71.1182727
+23713,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,23713,1,"Michigan State University",19809,33,41,2017-08-01,73,42.7323099,-84.4790719
+23990,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,23990,6,"University of Michigan",19128,2,186,2013-01-01,14,42.2738566,-83.7375824
+25228,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,25228,1,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+25407,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,25407,7,"University of Southern California",19231,125,354,2015-08-01,51,34.0223519,-118.285117
+27195,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,27195,7,"University of Michigan",19128,2,186,2007-09-01,14,42.2738566,-83.7375824
+28821,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,28821,1,"university of rochester",19134,161,189,2017-07-01,81,43.1305531,-77.6260033
+28931,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,28931,6,"Stanford University",19052,78,130,2014-01-01,3,37.429248,-122.1652635
+28993,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,28993,1,"universityÂ of cambridge",19093,120,139,2016-07-01,42,52.2010116,0.1084907
+29223,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29223,9,"University of Chicago Crime Lab and Education Lab",19358,339,570,2016-01-01,2,41.7899222,-87.5973383
+29314,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29314,6,"Princeton University",19622,747,886,2016-01-01,13,40.3490675,-74.6555328
+29324,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29324,9,"Vanderbilt University",19274,347,1338,2018-01-01,88,36.1447034,-86.8026551
+29452,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29452,1,"tsinghua university",19407,535,623,2017-07-01,86,39.999567,116.331991
+29539,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29539,1,"university of virginia",19043,70,83,2017-07-01,57,38.034837,-78.5064309
+29563,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29563,7,"University of Sydney ",19454,589,688,2017-05-01,100,-33.8853411,151.1852555
+29568,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29568,1,"stanford university",19051,78,92,2016-07-01,3,37.4284807,-122.1658358
+29650,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,29650,1,"London School of Economics",19277,351,407,2017-08-01,5,51.5136884,-0.1167007
+32629,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,32629,6," Johns Hopkins University",21861,1080,1345,2017-08-01,66,39.2825226,-76.6015979
+33046,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33046,1,"George Washington University",19306,411,476,2017-01-01,84,38.8985287,-77.0474064
+33399,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33399,1,"University of washington",19068,91,105,2018-09-01,69,47.6571109,-122.3083677
+33416,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33416,6,"University of Chicago, Harris School of Public Policy",21527,1044,1275,2017-01-01,2,41.7854555,-87.596997
+33417,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33417,6,"University of Chicago",19359,339,942,2017-01-01,2,41.7904792,-87.5967462
+33589,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33589,6,"University of Mannheim",19139,175,204,2017-09-01,35,49.4829556,8.461786
+33669,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33669,1,"University of Wisconsin Madison",19047,73,85,2017-01-01,31,43.0765006,-89.4052976
+33706,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33706,1,"University of Michigan",19128,2,186,2018-01-01,14,42.2738566,-83.7375824
+33727,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,33727,6,"Yale University",19217,290,336,2017-01-01,11,41.3138919,-72.9240345
+34090,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,34090,6,"University of Wisconsin-Madison",19047,73,85,2017-01-01,31,43.0765006,-89.4052976
+34162,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,34162,1,"The Ohio State University",19318,465,499,2017-01-01,60,40.0017935,-83.0093428
+34247,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,34247,1,"George Washington University",19064,85,1184,2017-01-01,60,38.9089441,-77.0755723
+34863,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,34863,1,"Peking University",21022,1043,1273,2018-03-08,63,39.986913,116.3058739
+35498,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,35498,1,"University of Maryland",18997,13,20,2014-01-01,24,38.9847953,-76.9440122
+37552,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,37552,6,"National University of Singapore",19613,737,876,2015-06-01,27,1.2977694,103.7807671
+38432,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,38432,15,"Pennsylvania State University",19102,134,154,2018-08-01,79,40.797324,-77.868361
+38476,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,38476,6,"University of Pennsylvania",19104,137,157,2018-01-01,6,39.953339,-75.194527
+38678,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,38678,1,"The George Washington University",19306,411,476,2018-01-01,84,38.8985287,-77.0474064
+39038,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,39038,6,"Cornell University",19383,361,420,2017-01-01,18,42.4534492,-76.4735027
+39216,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,39216,6,"Yale University",19217,290,336,2018-01-01,11,41.3138919,-72.9240345
+39547,19128,2,186,"University of Michigan - Department of Economics",14,42.2738566,-83.7375824,39547,2,"Warwick Business School",19098,124,1356,2018-03-08,33,52.3823554,-1.5656233
+7,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,7,3,"University of Toronto",19013,32,40,2008-06-01,19,43.6660209,-79.3998235
+19686,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,19686,1,"University of Virginia",19043,70,83,2014-01-01,57,38.034837,-78.5064309
+23663,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,23663,1,"university of bristol",19414,542,633,2016-07-01,100,51.4600545,-2.6049023
+24114,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24114,1,"University of Chicago",19357,339,394,2015-01-01,2,41.7899222,-87.5973383
+24119,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24119,1,"university of pennsylvania",19104,137,157,2016-07-01,6,39.953339,-75.194527
+24142,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24142,1,"university of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+24416,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24416,1,"university of southern california",19231,125,354,2016-07-01,51,34.0223519,-118.285117
+24471,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24471,1,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+24496,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24496,1,"carnegie mellon university",19127,158,522,2016-07-01,51,40.4410936,-79.9422009
+24634,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24634,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+24934,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24934,1,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+24935,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24935,1,bostonÂ university,19374,29,37,2016-07-01,30,42.3509108,-71.1054953
+24975,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,24975,1,"universityÂ of british columbia",19030,57,631,2016-07-01,47,49.2648239,-123.2537939
+25026,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,25026,1,"northwestern university",19003,18,25,2016-07-01,12,42.0571538,-87.6716364
+26389,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,26389,1,harvardÂ university,19275,350,406,2016-07-01,1,42.376417,-71.1182727
+27893,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,27893,1,"new york university",19470,144,167,2017-07-01,9,40.7290047,-73.9951385
+27983,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,27983,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+28550,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,28550,1,"vanderbilt university",19272,347,403,2017-07-01,88,36.1482018,-86.8027714
+28747,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,28747,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+28971,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,28971,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+29906,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,29906,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+30180,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,30180,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+30266,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,30266,1,"university of california los angeles",21842,6,36,2017-07-01,20,34.068921,-118.4451811
+33407,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,33407,1,"University of Pennsylvania",19105,137,502,2017-09-01,6,39.952414,-75.1965869
+38966,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,38966,1,USC,19231,125,354,2018-07-01,51,34.0223519,-118.285117
+12,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,12,7,duke,19998,17,24,2003-08-01,15,36.0014258,-78.9382286
+16,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,16,2,"University of Virginia",19043,70,83,2014-07-01,57,38.034837,-78.5064309
+49,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,49,2,"Duke University",19999,17,479,2016-01-01,15,36.0046315,-78.9425956
+128,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,128,9,"University of Southern California",19230,125,144,2017-02-01,51,34.0188247,-118.2857791
+142,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,142,1,"Washington University in St. Louis",19046,72,84,2008-08-01,84,38.648238,-90.3048746
+241,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,241,1,"Washington University in St. Louis",19046,72,84,2008-08-01,84,38.648238,-90.3048746
+461,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,461,1,"Stanford University",19051,78,92,2008-08-01,3,37.4284807,-122.1658358
+539,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,539,9,"Center for Economic Policy Research",19052,78,130,2017-01-01,3,37.429248,-122.1652635
+1079,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,1079,6,NUS,19329,439,507,2008-12-01,27,1.2966426,103.7763939
+1092,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,1092,2,"Georgetown University",19062,85,99,2015-01-01,60,38.9089853,-77.0734746
+1436,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,1436,1,"Texas A&M University",19378,513,596,2009-08-01,31,30.5975452,-96.3526833
+1440,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,1440,1," Boston College",19240,312,362,2009-08-01,69,42.3362748,-71.168524
+2268,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,2268,1,"Wisconsin School of Business",19047,73,85,2016-08-01,31,43.0765006,-89.4052976
+2279,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,2279,1,"University of Pennsylvania",19106,137,908,2009-08-01,6,39.9522188,-75.1932137
+2955,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,2955,15,"Duke University",19998,17,24,2015-01-01,15,36.0014258,-78.9382286
+3048,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,3048,6,"University of Wisconsin",19047,73,85,2008-08-01,31,43.0765006,-89.4052976
+3820,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,3820,1,"The Ohio State University",19318,465,499,2010-08-01,60,40.0017935,-83.0093428
+3850,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,3850,1,"Toulouse School of Economics",19138,86,203,2010-08-01,21,43.6067724,1.4371122
+3896,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,3896,1,"Texas A&M University",19378,513,596,2013-01-01,31,30.5975452,-96.3526833
+3984,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,3984,1,"Texas A&M University",19378,513,596,2010-03-08,31,30.5975452,-96.3526833
+4112,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,4112,4,"Tsinghua University",19407,535,623,2013-01-01,86,39.999567,116.331991
+4433,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,4433,1,"University of Warwick",19097,124,143,2012-01-01,33,52.3810194,-1.5630489
+4506,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,4506,6,"Duke University",19998,17,24,2010-09-01,15,36.0014258,-78.9382286
+4567,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,4567,9,"Center for Economic and Social Research",19230,125,144,2017-04-01,51,34.0188247,-118.2857791
+5768,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,5768,13,"University of Amsterdam",20357,647,1343,2009-08-01,37,52.3639549,4.9115847
+6175,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,6175,6,"Brown University",19005,21,28,2010-08-01,66,41.8271921,-71.4043861
+6595,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,6595,2,"The Ohio State University",19318,465,499,2005-08-01,60,40.0017935,-83.0093428
+7229,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,7229,15,"Columbia University",19007,22,29,2015-12-01,10,40.8077151,-73.9596015
+7279,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,7279,15,"Georgetown University",19062,85,99,2017-03-01,60,38.9089853,-77.0734746
+7908,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,7908,6,"Duke Global Health Institute",19998,17,24,2011-06-01,15,36.0014258,-78.9382286
+8001,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,8001,6,"Boston University",19375,29,592,2011-07-01,30,42.3355512,-71.0716876
+8992,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,8992,1,"stern school",19620,742,881,2011-06-01,9,40.7290549,-73.9965233
+10762,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,10762,1,"university of california los angeles",21842,6,36,2012-01-01,20,34.068921,-118.4451811
+12160,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,12160,1,"Arizona State University",19900,370,432,2012-08-01,72,33.4166016,-111.9341819
+12563,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,12563,6,"Duke University",19998,17,24,2011-08-01,15,36.0014258,-78.9382286
+12988,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,12988,1,"Cornell University",19384,361,603,2012-01-01,18,42.4473742,-76.4822234
+13379,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,13379,1,"University of British Columbia",19029,57,128,2012-01-01,47,49.2648239,-123.2537939
+23822,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,23822,1,"boston college",19240,312,362,2016-07-01,69,42.3362748,-71.168524
+24360,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,24360,NULL,"oxford university",19155,186,693,2016-07-01,8,51.7527214,-1.2624309
+25297,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,25297,1,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+25676,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,25676,1,"national university of singapore",19329,439,507,2016-07-01,27,1.2966426,103.7763939
+26497,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,26497,1,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+26523,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,26523,NULL,"university of rochester",19134,161,189,2016-07-01,81,43.1305531,-77.6260033
+27705,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,27705,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+27781,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,27781,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+27858,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,27858,1,"singapore management university",20255,1089,1347,2017-07-01,64,1.297537,103.8489704
+28536,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,28536,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+29956,19998,17,24,"Duke University - Economics",15,36.0014258,-78.9382286,29956,1,"yale university",19217,290,336,2017-07-01,11,41.3138919,-72.9240345
+24045,19046,72,84,"Washington University in St. Louis - Department of Economics",84,38.648238,-90.3048746,24045,NULL,"washington university in st. louisis",19046,72,84,2016-07-01,84,38.648238,-90.3048746
+23247,19093,120,139,"University of Cambridge - Faculty of Economics",42,52.2010116,0.1084907,23247,NULL,"university college london",19176,90,235,2016-07-01,16,51.526067,-0.133295
+23361,19093,120,139,"University of Cambridge - Faculty of Economics",42,52.2010116,0.1084907,23361,2,"University of Oxford ",19150,186,217,2018-01-01,8,51.7574088,-1.2468664
+23395,19093,120,139,"University of Cambridge - Faculty of Economics",42,52.2010116,0.1084907,23395,1,"university of melbourne",19215,288,334,2016-07-01,42,-37.8013795,144.9593986
+24167,19093,120,139,"University of Cambridge - Faculty of Economics",42,52.2010116,0.1084907,24167,NULL,"london school of economics",19430,564,660,2016-07-01,98,51.5261552,-0.160668
+38642,19093,120,139,"University of Cambridge - Faculty of Economics",42,52.2010116,0.1084907,38642,1,"University of Notre Dame ",19084,104,119,2018-01-01,77,41.695579,-86.2378059
+23734,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,23734,1,"johns hopkins university",19019,40,49,2016-07-01,66,39.3251692,-76.6227679
+25416,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,25416,1,"purdue university",19048,74,86,2017-07-01,93,40.4236941,-86.9110578
+27867,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,27867,1,"university of virginia",19043,70,83,2017-07-01,57,38.034837,-78.5064309
+28585,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,28585,1,"university of rochester",19134,161,189,2017-07-01,81,43.1305531,-77.6260033
+29523,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,29523,1,"national university of singapore",19329,439,507,2017-07-01,27,1.2966426,103.7763939
+30198,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,30198,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+36492,19028,57,67,"University of British Columbia - Economics",47,49.271064,-123.250418,36492,1,princeton,19622,747,886,2011-08-01,13,40.3490675,-74.6555328
+13770,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,13770,1,"arizona state university",19900,370,432,2016-07-01,72,33.4166016,-111.9341819
+24938,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,24938,1,"university college london",19176,90,235,2016-07-01,16,51.526067,-0.133295
+25946,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,25946,NULL,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+26140,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,26140,1,"johns hopkins university",19019,40,49,2016-07-01,66,39.3251692,-76.6227679
+26166,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,26166,1,"university of queensland",19208,266,310,2016-07-01,96,-27.494923,153.013491
+26570,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,26570,1,"university college london",19176,90,235,2016-07-01,16,51.526067,-0.133295
+161,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,161,1,"University of Tokyo",19776,915,1106,2008-04-01,100,35.7103178,139.7613879
+173,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,173,1,"Arizona State University",19900,370,432,2009-01-01,72,33.4166016,-111.9341819
+204,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,204,9,"University of California, Los Angeles",21844,6,1352,2005-01-01,20,34.0744024,-118.4390865
+244,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,244,2,"University of Pennsylvania",19104,137,157,2015-07-01,6,39.953339,-75.194527
+471,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,471,10,"University of Southern California Law School",19230,125,144,2010-01-01,51,34.0188247,-118.2857791
+688,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,688,9,"Australian National University",19729,67,90,2008-01-01,78,-35.2776999,149.118527
+783,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,783,9,"University of Maryland",18997,13,20,2010-01-01,24,38.9847953,-76.9440122
+982,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,982,1,"Washington University",19046,72,84,2008-01-01,84,38.648238,-90.3048746
+1168,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,1168,6,"Bocconi University",19929,1034,1262,2008-03-08,25,45.4485736,9.189945
+1383,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,1383,9,"Hoover Institution",19052,78,130,2006-01-01,3,37.429248,-122.1652635
+1441,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,1441,15,"Carnegie-Mellon University",19126,158,185,2007-09-01,51,40.4441758,-79.9455565
+2104,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,2104,9,"New York University",19470,144,167,2014-01-01,9,40.7290047,-73.9951385
+2139,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,2139,1,"University of Essex",19284,366,428,2006-01-01,49,51.8777259,0.9472069
+2151,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,2151,9,"University of Maryland",18997,13,20,2007-07-01,24,38.9847953,-76.9440122
+2780,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,2780,1,"University of Notre Dame",19084,104,119,2009-07-01,77,41.695579,-86.2378059
+2913,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,2913,7,"University of Wisconsin-Madison",19047,73,85,2008-03-08,31,43.0765006,-89.4052976
+5107,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,5107,1,"National University of Singapore Business School",19329,439,507,2011-07-01,27,1.2966426,103.7763939
+5172,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,5172,7,"University of Melbourne",19215,288,334,2010-09-01,42,-37.8013795,144.9593986
+5542,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,5542,1,"The Ohio State University",19318,465,499,2010-01-01,60,40.0017935,-83.0093428
+5886,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,5886,1,"Purdue University",19049,74,177,2006-01-01,93,40.4236941,-86.9110578
+8112,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8112,2,"New York University",19470,144,167,2013-01-01,9,40.7290047,-73.9951385
+8134,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8134,1,"Northwestern University",19003,18,25,2012-01-01,12,42.0571538,-87.6716364
+8389,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8389,15,"university of california los angeles",21842,6,36,2011-03-08,20,34.068921,-118.4451811
+8640,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8640,1,"Pennsylvania State University",19102,134,154,2011-01-01,79,40.797324,-77.868361
+8734,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8734,6,"University of Michigan",19128,2,186,2009-01-01,14,42.2738566,-83.7375824
+8871,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,8871,2,"Boston College",19240,312,362,2011-07-01,69,42.3362748,-71.168524
+9014,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,9014,3,"University of Wisconsin - Madison",19047,73,85,2018-01-01,31,43.0765006,-89.4052976
+9443,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,9443,1,"Purdue University",19049,74,177,2006-01-01,93,40.4236941,-86.9110578
+9551,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,9551,3,"Bocconi University",19929,1034,1262,2013-09-01,25,45.4485736,9.189945
+10734,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,10734,7,UCLA,21842,6,36,2013-01-01,20,34.068921,-118.4451811
+11388,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,11388,15,"University of Washington",19068,91,105,2010-03-01,69,47.6571109,-122.3083677
+11649,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,11649,9,"National University of Singapore",19329,439,507,2012-01-01,27,1.2966426,103.7763939
+11943,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,11943,1,"University of Southern California",19231,125,354,2012-01-01,51,34.0223519,-118.285117
+12568,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,12568,13,"The Hebrew University of Jerusalem.",19736,866,1042,2012-03-08,79,31.7942804,35.2429186
+12591,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,12591,1,"Bocconi University",19929,1034,1262,2012-09-01,25,45.4485736,9.189945
+12731,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,12731,0,"University of Chicago",21527,1044,1275,2004-08-01,2,41.7854555,-87.596997
+13882,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,13882,15,UCLA,21842,6,36,2008-01-01,20,34.068921,-118.4451811
+14782,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,14782,1,"University of Michigan",19128,2,186,2013-01-01,14,42.2738566,-83.7375824
+15259,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,15259,1,"University of Michigan",19128,2,186,2013-01-01,14,42.2738566,-83.7375824
+17133,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,17133,1,"University of Michigan",19128,2,186,2013-09-01,14,42.2738566,-83.7375824
+17904,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,17904,1,"Hong Kong University of Science and Technology",19811,68,79,2005-03-08,66,22.2813531,114.1611104
+20337,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,20337,1,sauder,19030,57,631,2006-01-01,47,49.2648239,-123.2537939
+21254,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,21254,1,"Georgetown University",19062,85,99,2014-01-01,60,38.9089853,-77.0734746
+21272,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,21272,1,"Singapore Management University",20255,1089,1347,2006-01-01,64,1.297537,103.8489704
+21694,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,21694,9,"CALIFORNIA CENTER FOR POPULATION RESEARCH",21844,6,1352,2014-12-01,20,34.0744024,-118.4390865
+21767,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,21767,1,"Cornell University",19384,361,603,2009-01-01,18,42.4473742,-76.4822234
+22574,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,22574,1,"Peking University",19530,651,767,2014-01-01,63,40.039255,116.346939
+23623,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,23623,1,"university of southern california",19231,125,354,2016-07-01,51,34.0223519,-118.285117
+27141,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,27141,1,"University of Maryland, Baltimore County",18997,13,20,2007-01-01,24,38.9847953,-76.9440122
+27194,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,27194,1,"university of sydney",19454,589,688,2017-07-01,100,-33.8853411,151.1852555
+28366,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,28366,9,"University of Mannheim",19139,175,204,2010-01-01,35,49.4829556,8.461786
+28441,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,28441,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+29117,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,29117,1,"university of southern california",19231,125,354,2017-07-01,51,34.0223519,-118.285117
+29173,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,29173,15,,19620,742,881,2016-07-01,9,40.7290549,-73.9965233
+30262,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,30262,1,"Massachusetts Institute of Technology",19238,311,361,2018-01-01,7,42.3606249,-71.0835567
+30319,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,30319,1,,19407,535,623,2016-07-01,86,39.999567,116.331991
+31968,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,31968,6,"University of Pennsylvania Population Studies Center",19105,137,502,2006-01-01,6,39.952414,-75.1965869
+33357,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,33357,1,"Stockholm School of Economics",19527,649,765,2017-08-01,93,59.3417181,18.0570142
+33765,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,33765,1,"University of Mannheim",19139,175,204,2017-07-01,35,49.4829556,8.461786
+36694,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,36694,6,"Carnegie Mellon University",19126,158,185,2018-07-01,51,40.4441758,-79.9455565
+37720,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,37720,9,"University of Melbourne",19216,288,1305,2018-08-01,42,-37.8014,144.959407
+38786,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,38786,1,"University of Copenhagen",19633,761,902,2018-01-01,53,55.6878461,12.5696519
+39166,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,39166,2,"Washington University in St. Louis",19046,72,84,2003-01-01,84,38.648238,-90.3048746
+23639,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,23639,1,"universityÂ of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+24430,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,24430,1,mit,19238,311,361,2016-07-01,7,42.3606249,-71.0835567
+24625,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,24625,NULL,"yale university",19217,290,336,2016-07-01,11,41.3138919,-72.9240345
+25189,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,25189,NULL,"yale university",19217,290,336,2016-07-01,11,41.3138919,-72.9240345
+25763,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,25763,1,"princeton university",19622,747,886,2016-07-01,13,40.3490675,-74.6555328
+27696,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,27696,1,"university of maryland",18997,13,20,2017-07-01,24,38.9847953,-76.9440122
+28623,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,28623,1,"university of cambridge",19093,120,139,2017-07-01,42,52.2010116,0.1084907
+28676,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,28676,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+29814,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,29814,1,"university of wisconsin madison",19047,73,85,2017-07-01,31,43.0765006,-89.4052976
+29832,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,29832,1,"northwestern university",19003,18,25,2017-07-01,12,42.0571538,-87.6716364
+30094,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,30094,1,"university of wisconsin madison",19047,73,85,2017-07-01,31,43.0765006,-89.4052976
+30095,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,30095,1,"university of warwick",19097,124,143,2017-07-01,33,52.3810194,-1.5630489
+30252,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,30252,1,"university of southern california",19231,125,354,2017-07-01,51,34.0223519,-118.285117
+32469,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,32469,1,"university of southern california",19231,125,354,2018-08-01,51,34.0223519,-118.285117
+32713,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,32713,1,"Georgetown University",19062,85,99,2018-01-01,60,38.9089853,-77.0734746
+32976,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,32976,9,"University of Oxford",19150,186,217,2017-09-01,8,51.7574088,-1.2468664
+33065,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,33065,1,"boston university",19374,29,37,2017-07-01,30,42.3509108,-71.1054953
+33732,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,33732,2,"Yale University",19217,290,336,2017-01-01,11,41.3138919,-72.9240345
+34079,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,34079,1,"Columbia University",19007,22,29,2017-09-01,10,40.8077151,-73.9596015
+34184,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,34184,1,"University of Southern California",19231,125,354,2012-09-01,51,34.0223519,-118.285117
+34446,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,34446,6,"Stanford University",19052,78,130,2018-09-01,3,37.429248,-122.1652635
+34940,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,34940,15,"Massachusetts Institute of Technology",19238,311,361,2018-01-01,7,42.3606249,-71.0835567
+36037,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,36037,1,"University of Cambridge",19093,120,139,2018-09-01,42,52.2010116,0.1084907
+36118,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,36118,1,"Princeton University",19622,747,886,2017-03-01,13,40.3490675,-74.6555328
+36797,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,36797,1,"Vanderbilt University",19273,347,793,2015-06-01,88,36.1447034,-86.8026551
+37878,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,37878,1,"Duke University",19998,17,24,2018-06-01,15,36.0014258,-78.9382286
+38195,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38195,6,"University of Michigan",19128,2,186,2018-07-01,14,42.2738566,-83.7375824
+38196,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38196,1,"University of Michigan",19128,2,186,2018-09-01,14,42.2738566,-83.7375824
+38599,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38599,1,"University of Southern California",19231,125,354,2019-01-01,51,34.0223519,-118.285117
+38670,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38670,1,"University of California Berkeley",19220,296,343,2018-09-01,4,37.871558,-122.2537809
+38800,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38800,1,"London School of Economics and Political Science",19277,351,407,2018-07-01,5,51.5136884,-0.1167007
+38892,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38892,1,"Cornell University",19384,361,603,2018-09-01,18,42.4473742,-76.4822234
+38977,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,38977,1,"university of sydney",19454,589,688,2019-07-01,100,-33.8853411,151.1852555
+39076,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,39076,1,"University of Chicago",19357,339,394,2011-03-01,2,41.7899222,-87.5973383
+40086,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,40086,2,"Johns Hopkins University",19019,40,49,2018-03-01,66,39.3251692,-76.6227679
+40187,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,40187,7,"Yale University",19217,290,336,2018-08-01,11,41.3138919,-72.9240345
+24238,19240,312,362,"Boston College - Department of Economics",69,42.3362748,-71.168524,24238,1,"bocconi university",19163,189,220,2016-07-01,25,45.4488022,9.1898607
+26543,19240,312,362,"Boston College - Department of Economics",69,42.3362748,-71.168524,26543,1,"texas a&m university",19378,513,596,2016-07-01,31,30.5975452,-96.3526833
+29558,19272,347,403,"Vanderbilt University - Department of Economics",88,36.1482018,-86.8027714,29558,1,"university of virginia",19043,70,83,2017-07-01,57,38.034837,-78.5064309
+28492,19138,86,203,"Toulouse School of Economics - Toulouse School of Economics",21,43.6067724,1.4371122,28492,1,"ludwig maximilian university of munich",19568,686,811,2017-07-01,29,48.1515559,11.582846
+28868,19138,86,203,"Toulouse School of Economics - Toulouse School of Economics",21,43.6067724,1.4371122,28868,NULL,"princeton university",19622,747,886,2016-07-01,13,40.3490675,-74.6555328
+40,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,40,1,"Peking University",19530,651,767,2008-07-01,63,40.039255,116.346939
+516,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,516,7,"University of New South Wales",19059,93,107,2008-07-01,58,-33.9167956,151.2295532
+1430,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,1430,1,"University of New South Wales",19059,93,107,2011-01-01,58,-33.9167956,151.2295532
+1692,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,1692,15,"University of Michigan",19128,2,186,2012-09-01,14,42.2738566,-83.7375824
+2398,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,2398,13,"London School of Economics",19277,351,407,2010-03-08,5,51.5136884,-0.1167007
+2786,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,2786,1,"Tilburg University",19438,573,669,2009-09-01,22,51.5627987,5.042274
+2865,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,2865,7,"The University of British Columbia",19028,57,67,2004-01-01,47,49.271064,-123.250418
+3785,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,3785,15,"University of Los Andes",21842,6,36,2010-08-01,20,34.068921,-118.4451811
+4683,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,4683,1,"University of Notre Dame",19084,104,119,2010-01-01,77,41.695579,-86.2378059
+4881,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,4881,6,"University of Michigan",19132,2,1351,2010-01-01,14,42.2722976,-83.7403873
+5411,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,5411,1,"Monash University",19076,95,109,2010-08-01,41,-37.9105238,145.1362182
+5462,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,5462,1,"University of Maryland",18998,13,221,2013-08-01,24,38.9870833,-76.9406622
+6045,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,6045,9,"university of gothenburg",19757,894,1077,2011-09-01,100,0,0
+6607,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,6607,9,"Purdue University",19049,74,177,2008-03-08,93,40.4236941,-86.9110578
+6653,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,6653,1,"University of Maryland",18997,13,20,2018-01-01,24,38.9847953,-76.9440122
+6654,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,6654,9,"University of Virginia",19043,70,83,2010-01-01,57,38.034837,-78.5064309
+7149,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,7149,6,"Stanford Institute for Economic Policy Research",19052,78,130,2011-01-01,3,37.429248,-122.1652635
+7186,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,7186,1,"University of Pennsylvania",19106,137,908,2016-01-01,6,39.9522188,-75.1932137
+7347,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,7347,15,"New York University",19470,144,167,2011-01-01,9,40.7290047,-73.9951385
+8016,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,8016,6,"Columbia University",19007,22,29,2013-01-01,10,40.8077151,-73.9596015
+8410,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,8410,7,"University of Maryland",18997,13,20,2017-01-01,24,38.9847953,-76.9440122
+10522,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,10522,10,"University of Maryland",18997,13,20,2003-06-01,24,38.9847953,-76.9440122
+10586,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,10586,2,"Michigan State University",19809,33,41,2012-01-01,73,42.7323099,-84.4790719
+11205,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,11205,9,"Princeton University",19622,747,886,2017-01-01,13,40.3490675,-74.6555328
+12012,18998,13,221,"University of Maryland - Department of Agricultural and Resource Economics",24,38.9870833,-76.9406622,12012,7,"Johns Hopkins University",19019,40,49,2012-01-01,66,39.3251692,-76.6227679
+12312,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,12312,1,"George Washington University",19062,85,99,2012-08-01,60,38.9089853,-77.0734746
+12632,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,12632,15,"University of Southern California",19230,125,144,2014-01-01,51,34.0188247,-118.2857791
+13010,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,13010,6,"University of Chicago",19357,339,394,2011-09-01,2,41.7899222,-87.5973383
+14780,18998,13,221,"University of Maryland - Department of Agricultural and Resource Economics",24,38.9870833,-76.9406622,14780,1,"Cornell University",19386,361,1174,2014-07-01,18,42.4534492,-76.4735027
+15226,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,15226,3,"University of Maryland",18997,13,20,2013-01-01,24,38.9847953,-76.9440122
+15410,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,15410,6,"University of Michigan",19128,2,186,2011-01-01,14,42.2738566,-83.7375824
+15585,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,15585,2,"Northwestern University",19003,18,25,2010-03-08,12,42.0571538,-87.6716364
+17064,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,17064,1,"Indiana University-Purdue University",19049,74,177,2007-09-01,93,40.4236941,-86.9110578
+18821,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,18821,6,"Stanford University",19051,78,92,2014-09-01,3,37.4284807,-122.1658358
+19039,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,19039,1,"Cornell University",19384,361,603,2007-09-01,18,42.4473742,-76.4822234
+20296,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,20296,1,"Arizona State University",19900,370,432,2017-08-01,72,33.4166016,-111.9341819
+20309,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,20309,1,"Michigan State University",19809,33,41,2015-09-01,73,42.7323099,-84.4790719
+20506,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,20506,1,"Carnegie Mellon University",19127,158,522,2014-09-01,51,40.4410936,-79.9422009
+21358,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,21358,7,"University of Maryland",18997,13,20,2012-01-01,24,38.9847953,-76.9440122
+22873,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,22873,1,"University of Maryland",18998,13,221,2008-01-01,24,38.9870833,-76.9406622
+23997,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,23997,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+24587,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,24587,1,"michigan state university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+24965,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,24965,1,"Arizona State University",19900,370,432,2008-01-01,72,33.4166016,-111.9341819
+25223,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,25223,1,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+26402,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,26402,15,"Yale University",19217,290,336,2006-01-01,11,41.3138919,-72.9240345
+26612,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,26612,1,"vanderbilt university",19272,347,403,2016-07-01,88,36.1482018,-86.8027714
+27290,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,27290,1,"University of Maryland",18997,13,20,2018-08-01,24,38.9847953,-76.9440122
+27744,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,27744,2,"University of Cologne",19444,579,676,2010-03-08,38,50.9281625,6.9288192
+27990,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,27990,NULL,mit,19238,311,361,2016-07-01,7,42.3606249,-71.0835567
+28215,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,28215,1,"University of Maryland",18997,13,20,2004-01-01,24,38.9847953,-76.9440122
+30396,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,30396,1,"university of warwick",19097,124,143,2017-07-01,33,52.3810194,-1.5630489
+31258,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,31258,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+32610,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,32610,1,"Cornell University",19384,361,603,2017-07-01,18,42.4473742,-76.4822234
+33750,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,33750,1,"Pennsylvania State University",19102,134,154,2017-08-01,79,40.797324,-77.868361
+35104,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,35104,1,"Tsinghua University",19407,535,623,2010-08-01,86,39.999567,116.331991
+37817,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,37817,1,"Purdue University Krannert",19049,74,177,2018-01-01,93,40.4236941,-86.9110578
+38021,18998,13,221,"University of Maryland - Department of Agricultural and Resource Economics",24,38.9870833,-76.9406622,38021,6,"Yall School of Forestry & Environmental Studies",19217,290,336,2019-01-01,11,41.3138919,-72.9240345
+38650,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,38650,1,"Shanghai University of Finance and Economics",20251,1067,1306,2018-09-01,56,31.306911,121.496763
+39993,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,39993,6,"Vanderbilt University",19272,347,403,2018-08-01,88,36.1482018,-86.8027714
+25520,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,25520,1,"university college london",19176,90,235,2016-07-01,16,51.526067,-0.133295
+25626,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,25626,NULL,aei,19147,59,212,2016-07-01,46,50.8471373,5.6867065
+26131,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,26131,NULL,"university of cambridge",19093,120,139,2016-07-01,42,52.2010116,0.1084907
+28237,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,28237,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+28305,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,28305,1,"vanderbilt university",19272,347,403,2017-07-01,88,36.1482018,-86.8027714
+28423,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,28423,1,"university of wisconsin madison",19047,73,85,2017-07-01,31,43.0765006,-89.4052976
+28744,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,28744,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+29151,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,29151,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+29353,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,29353,1,"princeton university",19622,747,886,2017-07-01,13,40.3490675,-74.6555328
+30387,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,30387,1,"university of sydney",19454,589,688,2017-07-01,100,-33.8853411,151.1852555
+30724,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,30724,1,"hong kong university of science and technology",19812,68,1176,2017-07-01,66,22.3363998,114.2654655
+37969,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,37969,6,michigan,19128,2,186,2018-07-01,14,42.2738566,-83.7375824
+38792,19003,18,25,"Northwestern University - Economics",12,42.0571538,-87.6716364,38792,6,princeton,19622,747,886,2018-01-07,13,40.3490675,-74.6555328
+24408,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,24408,1,"boston college",19240,312,362,2016-07-01,69,42.3362748,-71.168524
+25479,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,25479,1,"university of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+25801,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,25801,NULL,"university of cambridge",19093,120,139,2016-07-01,42,52.2010116,0.1084907
+25862,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,25862,1,"singapore management university",20255,1089,1347,2016-07-01,64,1.297537,103.8489704
+25890,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,25890,1,"johns hopkins university",19019,40,49,2016-07-01,66,39.3251692,-76.6227679
+25915,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,25915,1,"michigan state university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+26085,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,26085,1,"cornell university",19384,361,603,2016-07-01,18,42.4473742,-76.4822234
+26148,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,26148,1,"peking university",19530,651,767,2016-07-01,63,40.039255,116.346939
+28394,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,28394,1,"northwestern university",19003,18,25,2017-07-01,12,42.0571538,-87.6716364
+28733,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,28733,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+28943,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,28943,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+29600,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,29600,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+29921,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,29921,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+24514,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,24514,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+25764,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,25764,1,"national university of singapore",19329,439,507,2016-07-01,27,1.2966426,103.7763939
+28033,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,28033,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+29331,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,29331,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+29898,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,29898,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+33147,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,33147,1,"university of melbourne",19215,288,334,2017-07-01,42,-37.8013795,144.9593986
+26311,19384,361,603,"Cornell University - Economics",18,42.4473742,-76.4822234,26311,NULL,"cornell university",19384,361,603,2016-07-01,18,42.4473742,-76.4822234
+29292,19384,361,603,"Cornell University - Economics",18,42.4473742,-76.4822234,29292,1,"arizona state university",19900,370,432,2017-07-01,72,33.4166016,-111.9341819
+24462,19062,85,99,"Georgetown University - Department of Economics",60,38.9089853,-77.0734746,24462,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+23827,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,23827,NULL,"carnegie mellon university",19127,158,522,2016-07-01,51,40.4410936,-79.9422009
+23858,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,23858,1,"university of california los angeles",21842,6,36,2016-07-01,20,34.068921,-118.4451811
+24402,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,24402,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+24798,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,24798,1,"singapore management university",20255,1089,1347,2016-07-01,64,1.297537,103.8489704
+26139,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,26139,1,"maastricht university",19147,59,212,2016-07-01,46,50.8471373,5.6867065
+26267,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,26267,NULL,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+27815,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,27815,1,"tsinghua university",19407,535,623,2017-07-01,86,39.999567,116.331991
+27826,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,27826,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+28273,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,28273,NULL,"washington university in st. louisis",19046,72,84,2016-07-01,84,38.648238,-90.3048746
+28716,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,28716,1,"university of southern california",19231,125,354,2017-07-01,51,34.0223519,-118.285117
+28809,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,28809,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+28974,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,28974,1,mit,19238,311,361,2017-07-01,7,42.3606249,-71.0835567
+29019,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,29019,1,"london school of economics",19430,564,660,2017-07-01,98,51.5261552,-0.160668
+24755,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,24755,1,"university of rochester",19134,161,189,2016-07-01,81,43.1305531,-77.6260033
+29643,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,29643,1,"arizona state university",19900,370,432,2017-07-01,72,33.4166016,-111.9341819
+24034,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,24034,1,"michigan state university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+25420,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,25420,1,"washington university in st. louisis",19046,72,84,2016-07-01,84,38.648238,-90.3048746
+25554,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,25554,1,"university of british columbia",19028,57,67,2016-07-01,47,49.271064,-123.250418
+25691,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,25691,1,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+26030,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,26030,1,"princeton university",19622,747,886,2016-07-01,13,40.3490675,-74.6555328
+26073,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,26073,NULL,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+26191,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,26191,1,"texas a&m university",19378,513,596,2016-07-01,31,30.5975452,-96.3526833
+26748,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,26748,NULL,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+29087,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29087,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+29555,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29555,1,"peking university",19530,651,767,2017-07-01,63,40.039255,116.346939
+29655,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29655,1,mit,19238,311,361,2017-07-01,7,42.3606249,-71.0835567
+29719,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29719,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+29729,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29729,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+29731,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29731,1,"northwestern university",19003,18,25,2017-07-01,12,42.0571538,-87.6716364
+29732,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,29732,1,"northwestern university",19003,18,25,2017-07-01,12,42.0571538,-87.6716364
+30196,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,30196,1,"hong kong university of science and technology",19812,68,1176,2017-07-01,66,22.3363998,114.2654655
+38030,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,38030,1,"University of British Columbia",19030,57,631,2018-01-01,47,49.2648239,-123.2537939
+38265,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,38265,6,princeton,19622,747,886,2018-07-01,13,40.3490675,-74.6555328
+26308,19527,649,765,"Stockholm School of Economics - Dept. of Economics",93,59.3417181,18.0570142,26308,1,"university of toronto",19013,32,40,2016-07-01,19,43.6660209,-79.3998235
+26787,19527,649,765,"Stockholm School of Economics - Dept. of Economics",93,59.3417181,18.0570142,26787,1,"singapore management university",20255,1089,1347,2017-07-01,64,1.297537,103.8489704
+24659,19005,21,28,"Brown University - Economics",66,41.8271921,-71.4043861,24659,1,"boston university",19374,29,37,2016-07-01,30,42.3509108,-71.1054953
+27703,19005,21,28,"Brown University - Economics",66,41.8271921,-71.4043861,27703,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+22803,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,22803,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+23677,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,23677,1,"university of washington",19068,91,105,2016-07-01,69,47.6571109,-122.3083677
+24494,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,24494,1,sha,20251,1067,1306,2016-07-01,56,31.306911,121.496763
+24495,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,24495,NULL,"university of california los angeles",21842,6,36,2016-07-01,20,34.068921,-118.4451811
+24637,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,24637,1,"university of new south wales",19059,93,107,2016-07-01,58,-33.9167956,151.2295532
+24878,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,24878,1,"university of wisconsin madison",19047,73,85,2016-07-01,31,43.0765006,-89.4052976
+25574,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,25574,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+25749,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,25749,1,"peking university",19530,651,767,2016-07-01,63,40.039255,116.346939
+28168,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,28168,NULL,"university of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+29533,19047,73,85,"University of Wisconsin-Madison - Economics",31,43.0765006,-89.4052976,29533,1,"peking university",19530,651,767,2017-07-01,63,40.039255,116.346939
+25990,19253,326,376,"University of Lausanne, Switzerland - Faculty of Business and Economics (HEC), Department of Economics",88,46.5222371,6.5843318,25990,1,"universityÂ of new south wales",19059,93,107,2016-07-01,58,-33.9167956,151.2295532
+26224,19253,326,376,"University of Lausanne, Switzerland - Faculty of Business and Economics (HEC), Department of Economics",88,46.5222371,6.5843318,26224,NULL,"universityÂ of zurich",19205,255,952,2016-07-01,26,47.3729108,8.550014
+23960,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,23960,1,"northwestern university",19003,18,25,2016-07-01,12,42.0571538,-87.6716364
+24210,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,24210,1,"university of essex",19284,366,428,2016-07-01,49,51.8777259,0.9472069
+24243,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,24243,1,"duke university",19998,17,24,2016-07-01,15,36.0014258,-78.9382286
+24486,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,24486,1,"hong kong university of science and technology",19812,68,1176,2016-07-01,66,22.3363998,114.2654655
+24510,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,24510,1,"stockholm university",19322,433,500,2017-07-01,71,59.3621737,18.057831
+24606,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,24606,NULL,"london school of economics",19430,564,660,2016-07-01,98,51.5261552,-0.160668
+25188,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,25188,1,"university of toronto",19013,32,40,2016-07-01,19,43.6660209,-79.3998235
+25194,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,25194,1,"columbia university",19007,22,29,2016-07-01,10,40.8077151,-73.9596015
+26029,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,26029,1,"stanford university",19051,78,92,2016-07-01,3,37.4284807,-122.1658358
+27808,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,27808,NULL,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+28043,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,28043,1,"university of british columbia",19028,57,67,2017-07-01,47,49.271064,-123.250418
+28327,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,28327,1,"university of virginia",19043,70,83,2017-07-01,57,38.034837,-78.5064309
+28390,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,28390,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+29626,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,29626,NULL,"london school of economics",19430,564,660,2016-07-01,98,51.5261552,-0.160668
+30349,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,30349,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+39027,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,39027,1,"Stockholm University",19527,649,765,2018-09-01,93,59.3417181,18.0570142
+23477,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,23477,1,"university of copenhagen",19633,761,902,2016-07-01,53,55.6878461,12.5696519
+24253,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,24253,1,"university of warwick",19097,124,143,2017-07-01,33,52.3810194,-1.5630489
+25095,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,25095,1,"duke university",19998,17,24,2016-07-01,15,36.0014258,-78.9382286
+25102,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,25102,1,"texas a&m university",19378,513,596,2016-07-01,31,30.5975452,-96.3526833
+25663,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,25663,1,"michigan state university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+26072,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,26072,1,"stanford university",19051,78,92,2016-07-01,3,37.4284807,-122.1658358
+28617,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,28617,NULL,"columbia university",19007,22,29,2016-07-01,10,40.8077151,-73.9596015
+28799,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,28799,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+29428,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,29428,1,"george washington university",19306,411,476,2017-07-01,84,38.8985287,-77.0474064
+33083,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,33083,1,"Princeton University",19622,747,886,2018-09-01,13,40.3490675,-74.6555328
+33965,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,33965,1,"ILR School",19823,361,603,2017-01-01,18,42.4473742,-76.4822234
+38029,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,38029,1,"Carnegie Mellon University",19127,158,522,2018-07-01,51,40.4410936,-79.9422009
+11857,19049,74,177,"Purdue University - Economics",93,40.4236941,-86.9110578,11857,1,"purdue university",19048,74,86,2017-07-01,93,40.4236941,-86.9110578
+25024,19049,74,177,"Purdue University - Economics",93,40.4236941,-86.9110578,25024,NULL,"university of chicago",19357,339,394,2016-07-01,2,41.7899222,-87.5973383
+28584,19049,74,177,"Purdue University - Economics",93,40.4236941,-86.9110578,28584,NULL,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+23566,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,23566,NULL,"hebrew university",19736,866,1042,2016-07-01,79,31.7942804,35.2429186
+25783,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,25783,1,"pennsylvania stateÂ university",19102,134,154,2016-07-01,79,40.797324,-77.868361
+25922,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,25922,1,"peking university",19530,651,767,2017-07-01,63,40.039255,116.346939
+28639,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,28639,1,"university of southern california",19231,125,354,2017-07-01,51,34.0223519,-118.285117
+30191,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,30191,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+37369,19374,29,37,"Boston University - Economics",30,42.3509108,-71.1054953,37369,1,"Tilburg University",19439,573,1192,2018-01-01,22,51.5631406,5.0419736
+19384,19134,161,189,"University of Rochester, William E. Simon School - Economics and Management",81,43.1305531,-77.6260033,19384,1,"University of Bristol",19414,542,633,2018-09-01,100,51.4600545,-2.6049023
+23733,19134,161,189,"University of Rochester, William E. Simon School - Economics and Management",81,43.1305531,-77.6260033,23733,1,"georgetown university",19062,85,99,2016-07-01,60,38.9089853,-77.0734746
+27823,19134,161,189,"University of Rochester, William E. Simon School - Economics and Management",81,43.1305531,-77.6260033,27823,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+29032,19134,161,189,"University of Rochester, William E. Simon School - Economics and Management",81,43.1305531,-77.6260033,29032,NULL,"hebrew university of jerusalem",19736,866,1042,2016-07-01,79,31.7942804,35.2429186
+27603,19068,91,105,"University of Washington - Department of Economics",69,47.6571109,-122.3083677,27603,1,"hong kong university of science and technology",19812,68,1176,2017-07-01,66,22.3363998,114.2654655
+24078,19043,70,83,"University of Virginia - Economics",57,38.034837,-78.5064309,24078,1,"arizona state university",19900,370,432,2016-07-01,72,33.4166016,-111.9341819
+24939,19043,70,83,"University of Virginia - Economics",57,38.034837,-78.5064309,24939,1,"texas a&m university",19378,513,596,2016-07-01,31,30.5975452,-96.3526833
+37836,19043,70,83,"University of Virginia - Economics",57,38.034837,-78.5064309,37836,1,"Cornell University",19386,361,1174,2018-07-01,18,42.4534492,-76.4735027
+4373,19861,994,1217,"Erasmus University Rotterdam - Econometric Institute",40,51.91752,4.525585,4373,1,"Erasmus University Rotterdam",19861,994,1217,2010-10-01,40,51.91752,4.525585
+24691,19861,994,1217,"Erasmus University Rotterdam - Econometric Institute",40,51.91752,4.525585,24691,1,"shanghai university of finance and economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+26765,19861,994,1217,"Erasmus University Rotterdam - Econometric Institute",40,51.91752,4.525585,26765,NULL,"bocconi university",19163,189,220,2016-07-01,25,45.4488022,9.1898607
+25111,19306,411,476,"George Washington University - Department of Economics",84,38.8985287,-77.0474064,25111,NULL,"george washington university",19306,411,476,2016-07-01,84,38.8985287,-77.0474064
+21751,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,21751,1,"maastricht university",19147,59,212,2016-07-01,46,50.8471373,5.6867065
+24971,19318,465,499,"The Ohio State University - Economics",60,40.0017935,-83.0093428,24971,1,"university of mannheim",19139,175,204,2016-07-01,35,49.4829556,8.461786
+19366,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,19366,1,"Pennsylvania State University",19102,134,154,2016-01-01,79,40.797324,-77.868361
+23727,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23727,6,"University of Chicago",19357,339,394,2015-01-01,2,41.7899222,-87.5973383
+23813,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23813,NULL,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+23848,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23848,1,"Boston College",19240,312,362,2015-01-01,69,42.3362748,-71.168524
+23870,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23870,NULL,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+23886,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23886,1,"johns hopkins university",19019,40,49,2016-07-01,66,39.3251692,-76.6227679
+23915,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,23915,1,"London School of Economics",19277,351,407,2015-01-01,5,51.5136884,-0.1167007
+24592,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,24592,1,"university of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+24721,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,24721,1,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+24894,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,24894,1,"universityÂ of toronto",19013,32,40,2016-07-01,19,43.6660209,-79.3998235
+25200,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,25200,1,"new york university",19470,144,167,2016-07-01,9,40.7290047,-73.9951385
+26141,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,26141,1,"michigan stateÂ university",19809,33,41,2016-07-01,73,42.7323099,-84.4790719
+27210,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,27210,1,yaleÂ university,19217,290,336,2016-07-01,11,41.3138919,-72.9240345
+27305,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,27305,1,dartmouth,19376,510,593,2019-07-01,83,43.7058278,-72.2899576
+27404,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,27404,1,mit,19238,311,361,2017-07-01,7,42.3606249,-71.0835567
+27633,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,27633,NULL,"brown university",19005,21,28,2016-07-01,66,41.8271921,-71.4043861
+28099,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28099,1,"boston university",19374,29,37,2017-07-01,30,42.3509108,-71.1054953
+28133,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28133,1,"university of washington",19068,91,105,2017-07-01,69,47.6571109,-122.3083677
+28134,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28134,1,"yale university",19217,290,336,2017-07-01,11,41.3138919,-72.9240345
+28139,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28139,1,"university of zurich ",19205,255,952,2017-07-01,26,47.3729108,8.550014
+28280,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28280,1,"princeton university",19622,747,886,2017-07-01,13,40.3490675,-74.6555328
+28579,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28579,1,"university of pennsylvania",19104,137,157,2017-07-01,6,39.953339,-75.194527
+28978,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,28978,1,"university of pennsylvania",19104,137,157,2017-07-01,6,39.953339,-75.194527
+29319,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,29319,1,"northwestern university",19003,18,25,2017-07-01,12,42.0571538,-87.6716364
+29762,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,29762,1,"university of michigan",19133,2,1390,2017-01-01,14,42.2773424,-83.7365984
+30087,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,30087,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+30255,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,30255,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+30538,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,30538,1,"yale university",19217,290,336,2017-07-01,11,41.3138919,-72.9240345
+31038,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,31038,1,"columbia university",19007,22,29,2017-07-01,10,40.8077151,-73.9596015
+36641,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,36641,1,"the University of Michigan",19132,2,1351,2018-01-01,14,42.2722976,-83.7403873
+37667,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,37667,6,princeton,19622,747,886,2018-01-07,13,40.3490675,-74.6555328
+38197,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,38197,1,"University of Michigan",19132,2,1351,2018-09-01,14,42.2722976,-83.7403873
+38492,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,38492,1,"berkeley haas",19220,296,343,2018-01-07,4,37.871558,-122.2537809
+38645,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,38645,1,"Cornell University",19386,361,1174,2018-09-01,18,42.4534492,-76.4735027
+38667,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,38667,6,harvard,19275,350,406,2018-07-01,1,42.376417,-71.1182727
+24928,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,24928,7,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+26158,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,26158,1,mit,19238,311,361,2016-07-01,7,42.3606249,-71.0835567
+26235,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,26235,1,"University of Zurich",19205,255,952,2016-01-01,26,47.3729108,8.550014
+29311,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,29311,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+29959,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,29959,1,"london school of economics",19430,564,660,2017-07-01,98,51.5261552,-0.160668
+33548,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,33548,1,"Boston College",19240,312,362,2018-07-01,69,42.3362748,-71.168524
+37751,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,37751,6,chicago,19357,339,394,2015-07-01,2,41.7899222,-87.5973383
+28060,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,28060,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+28417,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,28417,1,,20251,1067,1306,2016-07-01,56,31.306911,121.496763
+29669,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,29669,1,"university of michigan",19128,2,186,2017-07-01,14,42.2738566,-83.7375824
+31021,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,31021,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+33650,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,33650,1,"New York University",19470,144,167,2017-09-01,9,40.7290047,-73.9951385
+33795,19013,32,40,"University of Toronto - Economics",19,43.6660209,-79.3998235,33795,1,"University of Notre Dame",19084,104,119,2017-09-01,77,41.695579,-86.2378059
+25333,19186,61,72,"VU University Amsterdam - Department of Econometrics and Operations Research",35,52.3337568,4.8657199,25333,1,"university of gothenburg",19757,894,1077,2016-07-01,100,0,0
+1996,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,1996,1,"University of Mannheim",19139,175,204,2004-09-01,35,49.4829556,8.461786
+2858,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,2858,1,"Tilburg University",19438,573,669,2009-09-01,22,51.5627987,5.042274
+10402,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,10402,0,"University of Munich",19568,686,811,2016-09-01,29,48.1515559,11.582846
+10423,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,10423,1,"University of Southern California",19231,125,354,2014-08-01,51,34.0223519,-118.285117
+13815,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,13815,1,"Stockholm University",19040,69,80,2010-09-01,71,59.3621737,18.057831
+14413,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,14413,1,"Warwick Business School",19098,124,1356,2014-09-01,33,52.3823554,-1.5656233
+15865,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,15865,1,"Tilburg University",19439,573,1192,2013-10-01,22,51.5631406,5.0419736
+17148,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,17148,1,"University of Bonn",19844,184,1206,2013-07-01,22,50.7296676,7.107807
+18198,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,18198,3,"University of Mannheim",19139,175,204,2017-08-01,35,49.4829556,8.461786
+20419,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,20419,6,"University of Mannheim",19139,175,204,2016-04-01,35,49.4829556,8.461786
+21840,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,21840,1,"Vrije Universiteit Amsterdam",19187,61,250,2014-09-01,35,52.3342671,4.8669632
+24477,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,24477,1,"university of gothenburg",19757,894,1077,2016-07-01,100,0,0
+26068,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,26068,6,"University of Mannheim",19139,175,204,2013-09-01,35,49.4829556,8.461786
+28352,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,28352,1,"university of essex",19284,366,428,2017-07-01,49,51.8777259,0.9472069
+30146,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,30146,NULL,"university of mannheim",19139,175,204,2016-07-01,35,49.4829556,8.461786
+32361,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,32361,1,"University of Vienna",19343,254,532,2017-09-01,76,48.2194309,16.3678345
+34122,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,34122,1,"University of Vienna",19343,254,532,2018-09-01,76,48.2194309,16.3678345
+34268,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,34268,1,"Hong Kong University",19812,68,1176,2010-09-01,66,22.3363998,114.2654655
+34738,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,34738,6,"University of Vienna",19345,254,680,2014-09-01,76,35.9108025,-79.051308
+36631,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,36631,1,"Ludwig Maximilian University of Munich",19568,686,811,2018-09-01,29,48.1515559,11.582846
+36642,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,36642,6," Toulouse School of Economics",19138,86,203,2018-09-01,21,43.6067724,1.4371122
+36648,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,36648,6,"Toulouse School of Economics",19138,86,203,2018-09-01,21,43.6067724,1.4371122
+39330,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,39330,6,"University of Mannheim",19139,175,204,2012-09-01,35,49.4829556,8.461786
+40826,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,40826,1,"Stockholm University",19040,69,80,2010-09-01,71,59.3621737,18.057831
+26316,19231,125,354,"University of Southern California - Department of Economics",51,34.0223519,-118.285117,26316,1,"shanghai university of finance andÂ economics",20251,1067,1306,2016-07-01,56,31.306911,121.496763
+24523,19046,72,84,"Washington University in St. Louis - Department of Economics",84,38.648238,-90.3048746,24523,1,"singapore management university",20255,1089,1347,2016-07-01,64,1.297537,103.8489704
+28461,19046,72,84,"Washington University in St. Louis - Department of Economics",84,38.648238,-90.3048746,28461,1,"university of sydney",19454,589,688,2017-07-01,100,-33.8853411,151.1852555
+23458,19040,69,80,"Institute for International Economic Studies - Stockholm University",71,59.3621737,18.057831,23458,1,"university of british columbia",19028,57,67,2016-07-01,47,49.271064,-123.250418
+28039,19322,433,500,"Stockholm University - Economics",71,59.3621737,18.057831,28039,NULL,"stockholm university",19322,433,500,2016-07-01,71,59.3621737,18.057831
+25066,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,25066,NULL,"northwestern university",19003,18,25,2016-07-01,12,42.0571538,-87.6716364
+25268,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,25268,1,"universityÂ of notre dame",19084,104,119,2016-07-01,77,41.695579,-86.2378059
+33378,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,33378,1,"University of maryland",18997,13,20,2017-09-01,24,38.9847953,-76.9440122
+34430,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,34430,1,"Yale university ",19217,290,336,2018-01-01,11,41.3138919,-72.9240345
+37941,19357,339,394,"University of Chicago - Economics",2,41.7899222,-87.5973383,37941,1," Toulouse School of Economics",19138,86,203,2018-09-01,21,43.6067724,1.4371122
+28759,19414,542,633,"University of Bristol - Department of Economics",100,51.4600545,-2.6049023,28759,NULL,"tolouse school of economics",19138,86,203,2016-07-01,21,43.6067724,1.4371122
+23957,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,23957,1,"washington university in st. louisis",19046,72,84,2016-07-01,84,38.648238,-90.3048746
+24110,19096,120,1203,"University of Cambridge - UNIVERSITY OF CAMBRIDGE",42,52.2042666,0.1149085,24110,NULL,"oxford university",19155,186,693,2016-07-01,8,51.7527214,-1.2624309
+519,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,519,7,"Columbia University",19007,22,29,2008-07-01,10,40.8077151,-73.9596015
+2029,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2029,2,"University of Oxford ",20578,874,1050,2013-01-01,8,51.7535674,-1.2684111
+2036,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2036,1,MIT,19238,311,361,2009-01-01,7,42.3606249,-71.0835567
+2267,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,2267,1,"Texas A&M University",19378,513,596,2009-08-01,31,30.5975452,-96.3526833
+4385,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,4385,7,"The Hebrew University of Jerusalem",19736,866,1042,2010-07-01,79,31.7942804,35.2429186
+7435,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,7435,15,"Singapore Management University",20255,1089,1347,2005-01-01,64,1.297537,103.8489704
+8621,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,8621,1,UCLA,21842,6,36,2011-01-01,20,34.068921,-118.4451811
+9167,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,9167,1,"Harvard University",19275,350,406,2005-01-01,1,42.376417,-71.1182727
+9348,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,9348,1,"Duke University  ",19998,17,24,2003-01-11,15,36.0014258,-78.9382286
+13476,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,13476,15,"Harvard University",19275,350,406,2008-01-01,1,42.376417,-71.1182727
+22148,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,22148,1,"Yale University",19217,290,336,2009-01-01,11,41.3138919,-72.9240345
+24461,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,24461,3," London School of Economics",19277,351,407,2003-01-11,5,51.5136884,-0.1167007
+25549,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,25549,1,"university of pennsylvania",19104,137,157,2016-07-01,6,39.953339,-75.194527
+27386,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,27386,3,"Georgetown University",19062,85,99,2016-09-01,60,38.9089853,-77.0734746
+29380,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,29380,3,"Université de Lausanne",19253,326,376,2009-01-01,88,46.5222371,6.5843318
+30024,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30024,3,"Princeton University ",19622,747,886,2003-01-11,13,40.3490675,-74.6555328
+30289,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,30289,1,"New York University",19470,144,167,2003-01-11,9,40.7290047,-73.9951385
+33495,19622,747,886,"Princeton University - Economics",13,40.3490675,-74.6555328,33495,1,"University of Chicago",19357,339,394,2015-01-01,2,41.7899222,-87.5973383
+13375,19019,40,49,"Johns Hopkins University - Economics",66,39.3251692,-76.6227679,13375,1,"johns hopkins university",19019,40,49,2017-07-01,66,39.3251692,-76.6227679
+26077,19019,40,49,"Johns Hopkins University - Economics",66,39.3251692,-76.6227679,26077,1,"university of wisconsin madison",19047,73,85,2016-07-01,31,43.0765006,-89.4052976
+28103,19019,40,49,"Johns Hopkins University - Economics",66,39.3251692,-76.6227679,28103,1,"university of queensland",19208,266,310,2017-07-01,96,-27.494923,153.013491
+26394,19231,125,354,"University of Southern California - Department of Economics",51,34.0223519,-118.285117,26394,NULL,"national university of singapore",19329,439,507,2016-07-01,27,1.2966426,103.7763939
+29413,19231,125,354,"University of Southern California - Department of Economics",51,34.0223519,-118.285117,29413,1,"saint louis university",19046,72,84,2017-07-01,84,38.648238,-90.3048746
+30132,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,30132,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+2703,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,2703,3,"London Business School",19430,564,660,2016-01-01,98,51.5261552,-0.160668
+3037,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,3037,1,"Arizona State University",19900,370,432,2005-08-01,72,33.4166016,-111.9341819
+4682,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,4682,1,"University of Warwick",19097,124,143,2013-09-01,33,52.3810194,-1.5630489
+7448,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,7448,1,"Warwick Business School",19098,124,1356,2011-09-01,33,52.3823554,-1.5656233
+16278,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,16278,2,"University of Sydney",19454,589,688,2017-05-01,100,-33.8853411,151.1852555
+19435,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,19435,6,"University of Bologna",19201,246,286,2012-09-01,84,44.4972031,11.3521241
+19833,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,19833,1,"University of Warwick",19098,124,1356,2014-09-01,33,52.3823554,-1.5656233
+30915,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,30915,NULL,"bocconi university",19163,189,220,2016-07-01,25,45.4488022,9.1898607
+32905,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,32905,1,"Tilburg University",19438,573,669,2017-09-01,22,51.5627987,5.042274
+33776,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,33776,1,"Yale university ",19218,290,551,2019-01-01,11,41.315128,-72.920231
+34366,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,34366,1,"Shanghai University of Finance and Economics",20251,1067,1306,2017-09-01,56,31.306911,121.496763
+38987,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,38987,1,"Cornell University",19384,361,603,2018-09-01,18,42.4473742,-76.4822234
+39842,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,39842,7,"Bocconi University",19163,189,220,2018-09-01,25,45.4488022,9.1898607
+26060,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,26060,NULL,"bocconi university",19163,189,220,2016-07-01,25,45.4488022,9.1898607
+28072,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,28072,1,"university of bristol",19414,542,633,2016-07-01,100,51.4600545,-2.6049023
+33139,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,33139,1,"university of amsterdam",20356,647,763,2017-07-01,37,52.3558182,4.9557263
+27608,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,27608,1,"stockholm university",19322,433,500,2017-07-01,71,59.3621737,18.057831
+27852,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,27852,6,"University of Cologne",19444,579,676,2016-01-01,38,50.9281625,6.9288192
+27894,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,27894,1,"Washington University",19046,72,84,2017-01-01,84,38.648238,-90.3048746
+27965,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,27965,1,"university of vienna",19342,254,298,2017-07-01,76,48.219108,16.3667991
+28068,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,28068,1,"university of essex",19284,366,428,2017-07-01,49,51.8777259,0.9472069
+28262,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,28262,1,"university of bristol",19414,542,633,2017-07-01,100,51.4600545,-2.6049023
+32514,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,32514,1,"yale university",19217,290,336,2017-07-01,11,41.3138919,-72.9240345
+32854,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,32854,1,"yale university",19217,290,336,2017-07-01,11,41.3138919,-72.9240345
+33211,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,33211,1,"university of bristol",19414,542,633,2017-07-01,100,51.4600545,-2.6049023
+38637,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,38637,1,"Cornell University",19822,361,420,2018-07-01,18,42.4534492,-76.4735027
+1202,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,1202,0,"Cornell University",19386,361,1174,2015-12-01,18,42.4534492,-76.4735027
+1621,19157,186,1233,"University of Oxford - Oxford University Centre for Business Taxation",8,51.7548164,-1.2543668,1621,15,"Georgetown University",19065,85,1419,2008-03-01,60,38.907565,-77.073308
+2135,19157,186,1233,"University of Oxford - Oxford University Centre for Business Taxation",8,51.7548164,-1.2543668,2135,6,"University of Oxford",19150,186,217,2006-09-01,8,51.7574088,-1.2468664
+2428,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,2428,1," Institute for International Economic Studies (IIES) at Stockholm University",19322,433,500,2009-09-01,71,59.3621737,18.057831
+3104,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,3104,3,"University of Mannheim",19140,175,1384,2004-09-01,35,49.4837106,8.4622333
+3159,19157,186,1233,"University of Oxford - Oxford University Centre for Business Taxation",8,51.7548164,-1.2543668,3159,2,"Stockholm University",19040,69,80,2018-09-01,71,59.3621737,18.057831
+4309,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,4309,1,"University of California, Los Angeles ",21842,6,36,2007-07-01,20,34.068921,-118.4451811
+4353,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,4353,6,"University of Nottingham",19835,974,1191,2010-01-01,38,52.9396807,-1.1944929
+4513,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,4513,3,"London Business School",19430,564,660,2011-03-01,98,51.5261552,-0.160668
+4530,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,4530,9,"University of Cambridge",19096,120,1203,2013-10-01,42,52.2042666,0.1149085
+4611,19861,994,1217,"Erasmus University Rotterdam - Econometric Institute",40,51.91752,4.525585,4611,2,"University of Oxford ",19150,186,217,2015-01-01,8,51.7574088,-1.2468664
+5007,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,5007,9,"University of Oxford",19150,186,217,2011-02-01,8,51.7574088,-1.2468664
+5120,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,5120,7,"Blavatnik School of Government",19154,186,612,2017-03-01,8,51.7593224,-1.2642215
+5218,20000,17,1221,"Duke University - Fuqua",15,35.9988399,-78.9472799,5218,2,"Cornell University",19384,361,603,2018-07-01,18,42.4473742,-76.4822234
+5359,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,5359,7,"University of Nottingham",19835,974,1191,2010-01-01,38,52.9396807,-1.1944929
+21732,19076,95,109,"Monash University - Department of Economics",41,-37.9105238,145.1362182,21732,1,"university of nottingham malaysia",19835,974,1191,2016-07-01,38,52.9396807,-1.1944929
+4077,19862,994,1295,"Erasmus University Rotterdam - Behavioural Economics",40,51.91752,4.525585,4077,1,"University of Copenhagen",19633,761,902,2013-01-01,53,55.6878461,12.5696519
+6268,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,6268,7,"university of Nottingham",19835,974,1191,2008-01-01,38,52.9396807,-1.1944929
+6847,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,6847,4,"Columbia University",19007,22,29,2011-03-01,10,40.8077151,-73.9596015
+7664,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,7664,7,"University College London",19176,90,235,2012-04-01,16,51.526067,-0.133295
+7819,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,7819,2,"University of Bristol",21856,1082,1331,2015-09-01,100,51.4600545,-2.6049023
+8341,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,8341,9,"University of Oxford",19150,186,217,2011-09-01,8,51.7574088,-1.2468664
+8377,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,8377,6,"University of Bonn",19844,184,1206,2009-12-01,22,50.7296676,7.107807
+8550,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,8550,2,"Shanghai University of Finance and Economics",20251,1067,1306,2011-09-01,56,31.306911,121.496763
+8807,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,8807,6,"University of Bonn",19844,184,1206,2011-08-01,22,50.7296676,7.107807
+8824,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,8824,13,"University of Chicago",19357,339,394,2011-09-01,2,41.7899222,-87.5973383
+8984,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,8984,1,"Cornell University",19383,361,420,2011-07-01,18,42.4534492,-76.4735027
+9423,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,9423,4,"University of Mannheim",19139,175,204,2009-03-01,35,49.4829556,8.461786
+9897,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,9897,9,"University of Nottingham",19835,974,1191,2006-12-01,38,52.9396807,-1.1944929
+10667,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,10667,7,"NUS Business School",19361,495,573,2018-07-01,27,1.2924099,103.7739968
+10781,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,10781,1,"New York University",19620,742,881,2013-09-01,9,40.7290549,-73.9965233
+11051,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,11051,1,"Georgetown University",19065,85,1419,2012-09-01,60,38.907565,-77.073308
+11119,19139,175,204,"University of Mannheim - Department of Economics",35,49.4829556,8.461786,11119,1,"Toulouse School of Economics",19138,86,203,2009-09-01,21,43.6067724,1.4371122
+11550,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,11550,2,"University of Oxford",19150,186,217,2010-09-01,8,51.7574088,-1.2468664
+11653,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,11653,15,"Princeton University",19622,747,886,2016-07-01,13,40.3490675,-74.6555328
+11862,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,11862,9,"University of Maryland",18997,13,20,2009-01-01,24,38.9847953,-76.9440122
+11967,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,11967,9,"University of Cambridge",19093,120,139,2014-03-01,42,52.2010116,0.1084907
+11968,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,11968,2,"University of Munich",19568,686,811,2018-07-01,29,48.1515559,11.582846
+12014,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,12014,1,"Maastricht University",19148,59,810,2013-01-01,46,50.8448769,5.6848194
+12248,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,12248,6,"University of Bonn",19844,184,1206,2010-05-01,22,50.7296676,7.107807
+12352,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,12352,6,"University of Bonn",19844,184,1206,2008-04-01,22,50.7296676,7.107807
+12387,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,12387,15,"University of Warwick",19097,124,143,2012-08-01,33,52.3810194,-1.5630489
+12881,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,12881,6,"University of Oxford",19150,186,217,2012-09-01,8,51.7574088,-1.2468664
+13184,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,13184,2,"Australian National University",19731,67,511,2018-01-01,78,-35.2773142,149.1239036
+13201,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,13201,2,"University of Oxford",19150,186,217,2015-07-01,8,51.7574088,-1.2468664
+13390,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,13390,6,"University of Bonn",19844,184,1206,2011-09-01,22,50.7296676,7.107807
+13633,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,13633,1,HEC-Lausanne,19253,326,376,2005-03-01,88,46.5222371,6.5843318
+13733,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,13733,7,"University of Cambridge",19093,120,139,2012-08-01,42,52.2010116,0.1084907
+13859,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,13859,9,"University of Oxford",19150,186,217,2012-09-01,8,51.7574088,-1.2468664
+14104,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,14104,3,"University of Essex",19284,366,428,2013-07-01,49,51.8777259,0.9472069
+14118,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,14118,3,"University of Nottingham",19835,974,1191,2010-01-01,38,52.9396807,-1.1944929
+14153,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,14153,1,"University of Mannheim",19139,175,204,2012-07-01,35,49.4829556,8.461786
+14751,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,14751,6,"University of Oxford",19150,186,217,2015-10-01,8,51.7574088,-1.2468664
+15331,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,15331,1,"University of Gothenburg",19757,894,1077,2016-08-01,100,0,0
+15465,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,15465,9,LSE,19277,351,407,2012-05-01,5,51.5136884,-0.1167007
+15532,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,15532,4,"University of Melbourne",19215,288,334,2013-09-01,42,-37.8013795,144.9593986
+15639,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,15639,1,"University of Nottingham",19835,974,1191,2013-01-01,38,52.9396807,-1.1944929
+15869,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,15869,6,"University of Oxford",19150,186,217,2010-09-01,8,51.7574088,-1.2468664
+16185,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,16185,1,"Stanford University",19051,78,92,2012-01-01,3,37.4284807,-122.1658358
+16776,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,16776,1,"University of Sydney",19454,589,688,2016-07-01,100,-33.8853411,151.1852555
+18008,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,18008,15,"Georgetown University",19065,85,1419,2008-03-01,60,38.907565,-77.073308
+18199,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,18199,1," University of New South Wales",19058,93,97,2013-09-01,58,-33.917347,151.2312675
+18354,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,18354,6,"Maastricht University",19148,59,810,2009-11-01,46,50.8448769,5.6848194
+18394,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,18394,1,"Maastricht University",19148,59,810,2012-07-01,46,50.8448769,5.6848194
+18852,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,18852,6,"University of Cambridge",19093,120,139,2014-09-01,42,52.2010116,0.1084907
+18921,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,18921,1,"University of Lausanne",19253,326,376,2015-09-01,88,46.5222371,6.5843318
+18925,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,18925,9,"University of Nottingham",19835,974,1191,2014-12-01,38,52.9396807,-1.1944929
+19220,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,19220,1,"Nottingham University Business School",19835,974,1191,2018-06-01,38,52.9396807,-1.1944929
+19225,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,19225,6,"University of Oxford",19154,186,612,2013-10-01,8,51.7593224,-1.2642215
+19229,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,19229,6,"University of Bonn",19845,184,1407,2014-09-01,22,50.7267715,7.0865227
+19859,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,19859,2,"Australian National University",19731,67,511,2017-01-01,78,-35.2773142,149.1239036
+19953,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,19953,7,"University College London",19176,90,235,2014-07-01,16,51.526067,-0.133295
+19976,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,19976,6,"University of Oxford",19150,186,217,2014-09-01,8,51.7574088,-1.2468664
+20142,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,20142,7,"University of Essex ",19284,366,428,2013-01-01,49,51.8777259,0.9472069
+20287,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,20287,1,"Maastricht University",19148,59,810,2013-07-01,46,50.8448769,5.6848194
+20356,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,20356,6,"University of Bonn",19844,184,1206,2013-08-01,22,50.7296676,7.107807
+20471,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,20471,3,"University of Queensland",19208,266,310,2018-01-01,96,-27.494923,153.013491
+20556,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,20556,9,"Singapore Management University",20255,1089,1347,2013-01-01,64,1.297537,103.8489704
+20988,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,20988,3,"University of Oxford",19150,186,217,2016-10-01,8,51.7574088,-1.2468664
+21076,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,21076,6,"University of Oxford",19150,186,217,2007-09-01,8,51.7574088,-1.2468664
+21142,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,21142,1,"university of queensland",19208,266,310,2014-07-01,96,-27.494923,153.013491
+21160,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,21160,1,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+21416,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,21416,9,"Duke University",19998,17,24,2016-07-01,15,36.0014258,-78.9382286
+21619,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,21619,6,"University of Oxford",19157,186,1233,2017-09-01,8,51.7548164,-1.2543668
+21682,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,21682,1,"University of British Columbia",19030,57,631,2012-01-01,47,49.2648239,-123.2537939
+21802,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,21802,1,"Georgetown University",19065,85,1419,2015-07-01,60,38.907565,-77.073308
+22060,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,22060,9,"Massachusetts Institute of Technology",19238,311,361,2009-06-01,7,42.3606249,-71.0835567
+22168,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,22168,7,"University of Cambridge",19096,120,1203,2010-03-01,42,52.2042666,0.1149085
+22274,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,22274,9,"University of Melbourne",19216,288,1305,2014-03-01,42,-37.8014,144.959407
+22430,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,22430,1,"Arizona State University",19900,370,432,2012-08-01,72,33.4166016,-111.9341819
+22716,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,22716,1,"university of cologne",19444,579,676,2016-07-01,38,50.9281625,6.9288192
+22764,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,22764,9,"University of Oxford",19150,186,217,2008-07-01,8,51.7574088,-1.2468664
+23327,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,23327,NULL,"harvard university",19275,350,406,2016-07-01,1,42.376417,-71.1182727
+23401,19059,93,107,"University of New South Wales - School of Economics",58,-33.9167956,151.2295532,23401,1,"monash university",19076,95,109,2016-07-01,41,-37.9105238,145.1362182
+23419,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,23419,1,"Maastricht University",19148,59,810,2016-07-01,46,50.8448769,5.6848194
+23432,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,23432,6,"Yale University",19217,290,336,2015-07-01,11,41.3138919,-72.9240345
+23719,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,23719,6,"University of Bonn",19844,184,1206,2013-09-01,22,50.7296676,7.107807
+24049,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,24049,9," University of Oxford",19150,186,217,2012-05-01,8,51.7574088,-1.2468664
+24084,19568,686,811,"University of Munich (LMU) - Department of Economics",29,48.1515559,11.582846,24084,NULL,"ludwig maximilian university of munich",19568,686,811,2016-07-01,29,48.1515559,11.582846
+24125,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,24125,1,"university of nottingham",19835,974,1191,2016-07-01,38,52.9396807,-1.1944929
+24228,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,24228,NULL,"georgetown university",19062,85,99,2016-07-01,60,38.9089853,-77.0734746
+24285,19147,59,212,"Maastricht University - Department of Economics (AE1)",46,50.8471373,5.6867065,24285,NULL,"maastricht university",19147,59,212,2016-07-01,46,50.8471373,5.6867065
+24320,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,24320,6,"University of Bonn",19844,184,1206,2009-09-01,22,50.7296676,7.107807
+24358,19430,564,660,"London Business School - Economics",98,51.5261552,-0.160668,24358,1,"washington university in st. louisis",19046,72,84,2016-07-01,84,38.648238,-90.3048746
+24419,19430,564,660,"London Business School - Economics",98,51.5261552,-0.160668,24419,1,"university of warwick",19097,124,143,2016-07-01,33,52.3810194,-1.5630489
+24485,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,24485,NULL,"stockholm school of economics",19527,649,765,2016-07-01,93,59.3417181,18.0570142
+24538,19147,59,212,"Maastricht University - Department of Economics (AE1)",46,50.8471373,5.6867065,24538,1,"tilburg university",19438,573,669,2016-07-01,22,51.5627987,5.042274
+24607,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,24607,1,"Carnegie Mellon University",19127,158,522,2018-01-01,51,40.4410936,-79.9422009
+24657,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,24657,1,"university of virginia",19043,70,83,2016-07-01,57,38.034837,-78.5064309
+24665,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,24665,2,"Monash University",19076,95,109,2018-07-01,41,-37.9105238,145.1362182
+24674,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,24674,3,"Monash University",19076,95,109,2010-06-01,41,-37.9105238,145.1362182
+24734,19757,894,1077,"University of Gothenburg - Department of Economics",100,0,0,24734,1,"columbia university",19007,22,29,2016-07-01,10,40.8077151,-73.9596015
+24881,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,24881,1,"university of tokyo",19776,915,1106,2016-07-01,100,35.7103178,139.7613879
+24900,19378,513,596,"Texas A&M University  - Economics",31,30.5975452,-96.3526833,24900,1,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+24963,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,24963,NULL,"university of oxford",19150,186,217,2016-07-01,8,51.7574088,-1.2468664
+25108,19188,61,898,"VU University Amsterdam - Faculty of Economics and Business Administration",35,52.3337568,4.8657199,25108,1,"university of gothenburg",19757,894,1077,2016-07-01,100,0,0
+25504,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,25504,7,"National University of Singapore",19329,439,507,2014-07-01,27,1.2966426,103.7763939
+25842,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,25842,1,"Cornell University",19386,361,1174,2015-09-01,18,42.4534492,-76.4735027
+25901,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,25901,2,"Australian National University",19733,67,1064,2011-03-01,78,-35.2874624,149.116167
+25941,19568,686,811,"University of Munich (LMU) - Department of Economics",29,48.1515559,11.582846,25941,NULL,"university of oxford",19150,186,217,2016-07-01,8,51.7574088,-1.2468664
+26039,19378,513,596,"Texas A&M University  - Economics",31,30.5975452,-96.3526833,26039,NULL,"yale university",19217,290,336,2016-07-01,11,41.3138919,-72.9240345
+26053,19430,564,660,"London Business School - Economics",98,51.5261552,-0.160668,26053,1,"purdue university",19048,74,86,2016-07-01,93,40.4236941,-86.9110578
+26122,19440,573,1358,"Tilburg University - Tilburg Law and Economics Center",22,51.5631406,5.0419736,26122,1,"university of melbourne",19215,288,334,2016-07-01,42,-37.8013795,144.9593986
+26279,19430,564,660,"London Business School - Economics",98,51.5261552,-0.160668,26279,NULL,"university of oxford",19150,186,217,2016-07-01,8,51.7574088,-1.2468664
+26551,19076,95,109,"Monash University - Department of Economics",41,-37.9105238,145.1362182,26551,NULL,"monash university",19076,95,109,2016-07-01,41,-37.9105238,145.1362182
+27539,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,27539,NULL,"national university of singapore",19329,439,507,2016-07-01,27,1.2966426,103.7763939
+27841,19633,761,902,"University of Copenhagen - Department of Economics",53,55.6878461,12.5696519,27841,NULL,"university of copenhagen",19633,761,902,2016-07-01,53,55.6878461,12.5696519
+27971,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,27971,1,"university of cologne",19444,579,676,2017-07-01,38,50.9281625,6.9288192
+27994,19568,686,811,"University of Munich (LMU) - Department of Economics",29,48.1515559,11.582846,27994,NULL,"university of munich",19568,686,811,2016-07-01,29,48.1515559,11.582846
+28047,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,28047,1,"university college london",19176,90,235,2017-07-01,16,51.526067,-0.133295
+28048,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,28048,1,"university of amsterdam",20356,647,763,2016-07-01,37,52.3558182,4.9557263
+28245,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,28245,1,"Singapore Management University",20255,1089,1347,2012-07-01,64,1.297537,103.8489704
+28321,19208,266,310,"University of Queensland - Economics",96,-27.494923,153.013491,28321,NULL,"university of queensland",19208,266,310,2016-07-01,96,-27.494923,153.013491
+28322,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,28322,1,"university of oxford",19150,186,217,2017-07-01,8,51.7574088,-1.2468664
+28350,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,28350,1,"harvard university",19275,350,406,2017-07-01,1,42.376417,-71.1182727
+28395,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,28395,1,"university of rochester",19134,161,189,2016-07-01,81,43.1305531,-77.6260033
+28516,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,28516,9,"University of Vienna",19343,254,532,2018-01-01,76,48.2194309,16.3678345
+28528,19147,59,212,"Maastricht University - Department of Economics (AE1)",46,50.8471373,5.6867065,28528,1,"tilburg university",19438,573,669,2017-07-01,22,51.5627987,5.042274
+28605,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,28605,1,"arizona state university",19900,370,432,2016-07-01,72,33.4166016,-111.9341819
+28654,21842,6,36,"University of California Los Angeles (UCLA) - Economics",20,34.068921,-118.4451811,28654,6,"university of california Â los angeles",19272,347,403,2016-07-01,88,36.1482018,-86.8027714
+28704,19440,573,1358,"Tilburg University - Tilburg Law and Economics Center",22,51.5631406,5.0419736,28704,1,"university of chicago",19357,339,394,2017-07-01,2,41.7899222,-87.5973383
+28795,19051,78,92,"Stanford University - Department of Economics",3,37.4284807,-122.1658358,28795,1,"university of toronto",19013,32,40,2017-07-01,19,43.6660209,-79.3998235
+28826,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,28826,1,"purdue university",19048,74,86,2017-07-01,93,40.4236941,-86.9110578
+28832,19444,579,676,"University of Cologne - Chair of Economics (Decision and Game Theory)",38,50.9281625,6.9288192,28832,1,"university of cologne",19444,579,676,2016-07-01,38,50.9281625,6.9288192
+28839,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,28839,9,"University of Cambridge",19093,120,139,2016-09-01,42,52.2010116,0.1084907
+28947,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,28947,1,"bocconi university",19163,189,220,2017-07-01,25,45.4488022,9.1898607
+28967,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,28967,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+28988,19046,72,84,"Washington University in St. Louis - Department of Economics",84,38.648238,-90.3048746,28988,1,"singapore management university",20255,1089,1347,2017-07-01,64,1.297537,103.8489704
+29256,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,29256,7,"University of Oxford",19150,186,217,2012-07-01,8,51.7574088,-1.2468664
+29269,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,29269,1,"university of queensland",19208,266,310,2016-07-01,96,-27.494923,153.013491
+29475,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,29475,1,"university of essex",19284,366,428,2017-07-01,49,51.8777259,0.9472069
+29882,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,29882,1,"Singapore Management University",20255,1089,1347,2007-07-01,64,1.297537,103.8489704
+30047,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,30047,4,"Monash University",19077,95,346,2009-01-01,41,-37.9105238,145.1362182
+30125,19470,144,167,"New York University - Economics Department",9,40.7290047,-73.9951385,30125,1,"university of amsterdam",20356,647,763,2017-07-01,37,52.3558182,4.9557263
+30135,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,30135,2,"University of Oxford",19154,186,612,2016-08-01,8,51.7593224,-1.2642215
+30187,19007,22,29,"Columbia University - Economics",10,40.8077151,-73.9596015,30187,1,"new york university",19470,144,167,2017-07-01,9,40.7290047,-73.9951385
+30208,19343,254,532,"University of Vienna - Economics",76,48.2194309,16.3678345,30208,NULL,"university of vienna",19342,254,298,2016-07-01,76,48.219108,16.3667991
+30257,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,30257,NULL,"yale university",19217,290,336,2016-07-01,11,41.3138919,-72.9240345
+30284,19076,95,109,"Monash University - Department of Economics",41,-37.9105238,145.1362182,30284,NULL,"university of melbourne",19215,288,334,2016-07-01,42,-37.8013795,144.9593986
+30325,19430,564,660,"London Business School - Economics",98,51.5261552,-0.160668,30325,1,"princeton university",19622,747,886,2017-07-01,13,40.3490675,-74.6555328
+30356,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,30356,NULL,"stanford institute for economic policy research",19052,78,130,2016-07-01,3,37.429248,-122.1652635
+30385,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,30385,1,"university of warwick",19097,124,143,2016-07-01,33,52.3810194,-1.5630489
+30687,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,30687,6,"University of Oxford",19150,186,217,2005-09-01,8,51.7574088,-1.2468664
+30692,19275,350,406,"Harvard University - Department of Economics",1,42.376417,-71.1182727,30692,1,"cornell university",19384,361,603,2017-07-01,18,42.4473742,-76.4822234
+30707,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,30707,1,"carnegie mellon university",19127,158,522,2017-07-01,51,40.4410936,-79.9422009
+30768,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,30768,1,"shanghai university of finance and economics",20251,1067,1306,2017-07-01,56,31.306911,121.496763
+30876,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,30876,NULL,"university of melbourne",19215,288,334,2016-07-01,42,-37.8013795,144.9593986
+31007,19102,134,154,"Pennsylvania State University - Economics",79,40.797324,-77.868361,31007,1,"purdue university",19048,74,86,2017-07-01,93,40.4236941,-86.9110578
+31088,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,31088,7,"University of Oxford",19150,186,217,2007-09-01,8,51.7574088,-1.2468664
+31665,19138,86,203,"Toulouse School of Economics - Toulouse School of Economics",21,43.6067724,1.4371122,31665,NULL,"toulouse business school",19138,86,203,2016-07-01,21,43.6067724,1.4371122
+32341,20255,1089,1347,"Singapore Management University - School of Economics",64,1.297537,103.8489704,32341,NULL,"singapore management university",20255,1089,1347,2016-07-01,64,1.297537,103.8489704
+32427,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,32427,7,"University of Oxford",19150,186,217,2017-09-01,8,51.7574088,-1.2468664
+32453,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,32453,1,"University of Mannheim",19139,175,204,2017-09-01,35,49.4829556,8.461786
+32657,19201,246,286,"University of Bologna - Department of Economics",84,44.4972031,11.3521241,32657,NULL,"university of bologna",19201,246,286,2016-07-01,84,44.4972031,11.3521241
+32674,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,32674,7,"University of Oxford",19150,186,217,2009-09-01,8,51.7574088,-1.2468664
+32684,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,32684,7,"University of Nottingham",19835,974,1191,2019-01-01,38,52.9396807,-1.1944929
+32878,19097,124,143,"University of Warwick - Economics",33,52.3810194,-1.5630489,32878,NULL,"london school of economics",19430,564,660,2016-07-01,98,51.5261552,-0.160668
+32948,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,32948,3,"University of Michigan",19128,2,186,2010-01-01,14,42.2738566,-83.7375824
+32974,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,32974,2,"University of Oxford",19150,186,217,2014-09-01,8,51.7574088,-1.2468664
+33166,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,33166,2,"Oxford University",19150,186,217,2017-07-01,8,51.7574088,-1.2468664
+33233,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,33233,1,"University of Warwick",19098,124,1356,2017-08-01,33,52.3823554,-1.5656233
+33290,19615,737,995,"National University of Singapore - Centre for Behavioural Economics",27,1.2966426,103.7763939,33290,7,"Singapore Management University",20255,1089,1347,2018-08-01,64,1.297537,103.8489704
+33342,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,33342,6,"University of Bonn",19843,184,1204,2019-01-01,22,50.7302498,7.109999
+33375,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,33375,7,"University of Nottingham",19835,974,1191,2017-01-01,38,52.9396807,-1.1944929
+33480,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,33480,1,"Georgetown University",19065,85,1419,2015-07-01,60,38.907565,-77.073308
+33499,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,33499,0," Boston University ",19374,29,37,2017-01-01,30,42.3509108,-71.1054953
+33641,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,33641,1,"University of Vienna",19343,254,532,2017-09-01,76,48.2194309,16.3678345
+33757,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,33757,6,"University College London",19176,90,235,2016-07-01,16,51.526067,-0.133295
+33908,19238,311,361,"Massachusetts Institute of Technology - Department of Economics",7,42.3606249,-71.0835567,33908,6,"University of Warwick",19097,124,143,2017-01-01,33,52.3810194,-1.5630489
+33936,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,33936,1,"University of Washington",19068,91,105,2011-09-01,69,47.6571109,-122.3083677
+33992,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,33992,10,"Monash University",19076,95,109,2014-08-01,41,-37.9105238,145.1362182
+34057,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,34057,1,"Nottingham University Business School",19835,974,1191,2015-01-01,38,52.9396807,-1.1944929
+34528,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,34528,1,"Georgetown University",19064,85,1184,2017-01-01,60,38.9089441,-77.0755723
+34657,19440,573,1358,"Tilburg University - Tilburg Law and Economics Center",22,51.5631406,5.0419736,34657,6," Hong Kong University of Science and Technology",19811,68,79,2017-01-01,66,22.2813531,114.1611104
+34812,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,34812,1,"Johns Hopkins University ",21860,1080,1328,2017-01-01,66,39.327396,-76.6216163
+35204,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,35204,9,"Monash University",19076,95,109,2018-09-01,41,-37.9105238,145.1362182
+35205,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,35205,6,"University of Nottingham",19835,974,1191,2017-09-01,38,52.9396807,-1.1944929
+35434,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,35434,1,"New York University",19470,144,167,2008-09-01,9,40.7290047,-73.9951385
+35708,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,35708,4,"LMU Munich",19568,686,811,2019-01-01,29,48.1515559,11.582846
+35961,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,35961,2,"University of Nottingham",19835,974,1191,2017-07-01,38,52.9396807,-1.1944929
+35994,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,35994,1,"University of Bristol",19414,542,633,2018-07-01,100,51.4600545,-2.6049023
+36000,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36000,2,"Georgetown University",19062,85,99,2007-01-01,60,38.9089853,-77.0734746
+36257,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36257,6,"University of Oxford",19150,186,217,2017-09-01,8,51.7574088,-1.2468664
+36595,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,36595,6,"University of Oxford",19150,186,217,2016-01-01,8,51.7574088,-1.2468664
+36612,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36612,1,cornell,19384,361,603,2019-07-01,18,42.4473742,-76.4822234
+36696,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,36696,9,"The University of Melbourne",19215,288,334,2018-02-01,42,-37.8013795,144.9593986
+36864,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36864,6,"University of Oxford",19150,186,217,2018-09-01,8,51.7574088,-1.2468664
+36914,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36914,1,"University of Warwick",19097,124,143,2019-09-01,33,52.3810194,-1.5630489
+36939,19238,311,361,"Massachusetts Institute of Technology - Department of Economics",7,42.3606249,-71.0835567,36939,1,"University of British Columbia",19028,57,67,2019-07-01,47,49.271064,-123.250418
+36946,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,36946,6,"University of Cambridge",19093,120,139,2015-09-01,42,52.2010116,0.1084907
+37018,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,37018,7,"Monash University",19076,95,109,2017-09-01,41,-37.9105238,145.1362182
+37138,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,37138,1,"University of Warwick",19097,124,143,2012-09-01,33,52.3810194,-1.5630489
+37267,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,37267,1,"University of Cambridge",19093,120,139,2012-03-01,42,52.2010116,0.1084907
+37298,19862,994,1295,"Erasmus University Rotterdam - Behavioural Economics",40,51.91752,4.525585,37298,7,"Monash University",19077,95,346,2018-01-01,41,-37.9105238,145.1362182
+37476,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,37476,1,"University of Nottingham China",19835,974,1191,2018-09-01,38,52.9396807,-1.1944929
+37498,19620,742,881,"New York University Stern School of Business - Economics",9,40.7290549,-73.9965233,37498,1,"Columbia University",19007,22,29,2018-07-01,10,40.8077151,-73.9596015
+37648,19215,288,334,"University of Melbourne - Department of Economics, Faculty of Business & Economics",42,-37.8013795,144.9593986,37648,9,"Monash University",19077,95,346,2018-10-01,41,-37.9105238,145.1362182
+37777,19217,290,336,"Yale University - economics",11,41.3138919,-72.9240345,37777,1,"The George Washington University",19306,411,476,2012-08-01,84,38.8985287,-77.0474064
+37811,19440,573,1358,"Tilburg University - Tilburg Law and Economics Center",22,51.5631406,5.0419736,37811,6,"University of Cambridge",19093,120,139,2018-09-01,42,52.2010116,0.1084907
+37917,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,37917,6,"University College London",19176,90,235,2016-09-01,16,51.526067,-0.133295
+39126,19844,184,1206,"University of Bonn - Institute for Microeconomics",22,50.7296676,7.107807,39126,9,"University of Bonn",19845,184,1407,2009-10-01,22,50.7267715,7.0865227
+39901,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,39901,2,"University of Oxford",19150,186,217,2012-07-01,8,51.7574088,-1.2468664
+39962,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,39962,2,"Texas A&M University",19378,513,596,2019-08-01,31,30.5975452,-96.3526833
+39965,18997,13,20,"University of Maryland - Economics",24,38.9847953,-76.9440122,39965,6,"University of Maryland",18997,13,20,2017-08-01,24,38.9847953,-76.9440122
+40133,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,40133,6,"University of Warwick",19097,124,143,2018-09-01,33,52.3810194,-1.5630489
+40237,19835,974,1191,"University of Nottingham - Economics",38,52.9396807,-1.1944929,40237,9,"Maastricht University",19149,59,1334,2019-01-01,46,50.8550704,5.6896534
+40767,19150,186,217,"University of Oxford - Economics",8,51.7574088,-1.2468664,40767,7,"University of Oxford",20578,874,1050,2018-09-01,8,51.7535674,-1.2684111
+32579,19277,351,407,"London School of Economics and Political Science - Department of Economics",5,51.5136884,-0.1167007,32579,1," University of California Berkeley ",19220,296,343,2017-07-01,4,37.871558,-122.2537809
+3469,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,3469,7,"Università Commerciale Luigi Bocconi",19163,189,220,2005-03-01,25,45.4488022,9.1898607
+7789,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,7789,6,"Università commerciale Luigi Bocconi",19163,189,220,2009-01-01,25,45.4488022,9.1898607
+32136,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,32136,NULL,"university of bologna",19201,246,286,2016-07-01,84,44.4972031,11.3521241
+13069,20000,17,1221,"Duke University - Fuqua",15,35.9988399,-78.9472799,13069,1,"Cornell University",19384,361,603,2012-08-01,18,42.4473742,-76.4822234
+15076,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,15076,1,"University of Melbourne",19215,288,334,2013-09-01,42,-37.8013795,144.9593986
+28773,19163,189,220,"Universita Commerciale Luigi Bocconi - Bocconi University",25,45.4488022,9.1898607,28773,6,"Northwestern University",19003,18,25,2019-01-01,12,42.0571538,-87.6716364
+25093,20000,17,1221,"Duke University - Fuqua",15,35.9988399,-78.9472799,25093,1,"university of pennsylvania",19104,137,157,2016-07-01,6,39.953339,-75.194527
+26440,19127,158,522,"Carnegie Mellon University - Tepper School of Business",51,40.4410936,-79.9422009,26440,NULL,"carnegie mellon university",19127,158,522,2016-07-01,51,40.4410936,-79.9422009
+43456,19104,137,157,"University of Pennsylvania - Department of Economics",6,39.953339,-75.194527,43456,1,"Georgetown University",19062,85,99,2019-08-01,60,38.9089853,-77.0734746
+42217,19176,90,235,"University College London - Department of Economics",16,51.526067,-0.133295,42217,1,"Simon Fraser University ",19213,286,332,2019-07-01,88,49.2800145,-122.9200592
