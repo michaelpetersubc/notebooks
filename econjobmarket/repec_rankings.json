@@ -1,0 +1,772 @@
+[
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Michigan - Department of Economics",
+		"ejm_organization_id" : 186,
+		"ejm_institution_id" : 2,
+		"rank" : 14
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of California Los Angeles (UCLA) - Economics",
+		"ejm_organization_id" : 36,
+		"ejm_institution_id" : 6,
+		"rank" : 20
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Maryland - Economics",
+		"ejm_organization_id" : 20,
+		"ejm_institution_id" : 13,
+		"rank" : 24
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Duke University - Economics",
+		"ejm_organization_id" : 24,
+		"ejm_institution_id" : 17,
+		"rank" : 15
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Northwestern University - Economics",
+		"ejm_organization_id" : 25,
+		"ejm_institution_id" : 18,
+		"rank" : 12
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Brown University - Economics",
+		"ejm_organization_id" : 28,
+		"ejm_institution_id" : 21,
+		"rank" : 66
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Columbia University - Economics",
+		"ejm_organization_id" : 29,
+		"ejm_institution_id" : 22,
+		"rank" : 10
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Boston University - Economics",
+		"ejm_organization_id" : 37,
+		"ejm_institution_id" : 29,
+		"rank" : 30
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Toronto - Economics",
+		"ejm_organization_id" : 40,
+		"ejm_institution_id" : 32,
+		"rank" : 19
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Michigan State University - Economics",
+		"ejm_organization_id" : 41,
+		"ejm_institution_id" : 33,
+		"rank" : 73
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Johns Hopkins University - Economics",
+		"ejm_organization_id" : 49,
+		"ejm_institution_id" : 40,
+		"rank" : 66
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of British Columbia - Economics",
+		"ejm_organization_id" : 67,
+		"ejm_institution_id" : 57,
+		"rank" : 47
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Maastricht University - Faculty of Economics and Business Administration",
+		"ejm_organization_id" : 70,
+		"ejm_institution_id" : 59,
+		"rank" : 46
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "VU University Amsterdam - Department of Econometrics and Operations Research",
+		"ejm_organization_id" : 72,
+		"ejm_institution_id" : 61,
+		"rank" : 35
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Australian National University - School of Economics, CBE",
+		"ejm_organization_id" : 78,
+		"ejm_institution_id" : 67,
+		"rank" : 78
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Hong Kong University of Science and Technology - Business School",
+		"ejm_organization_id" : 79,
+		"ejm_institution_id" : 68,
+		"rank" : 66
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Institute for International Economic Studies - Stockholm University",
+		"ejm_organization_id" : 80,
+		"ejm_institution_id" : 69,
+		"rank" : 71
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Virginia - College at Wise",
+		"ejm_organization_id" : 81,
+		"ejm_institution_id" : 70,
+		"rank" : 57
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Washington University in St. Louis - Department of Economics",
+		"ejm_organization_id" : 84,
+		"ejm_institution_id" : 72,
+		"rank" : 84
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Wisconsin-Madison - Economics",
+		"ejm_organization_id" : 85,
+		"ejm_institution_id" : 73,
+		"rank" : 31
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Purdue University - Department of Agricultural Economics",
+		"ejm_organization_id" : 86,
+		"ejm_institution_id" : 74,
+		"rank" : 93
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Stanford University - Department of Economics",
+		"ejm_organization_id" : 92,
+		"ejm_institution_id" : 78,
+		"rank" : 3
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Georgetown University - Department of Economics",
+		"ejm_organization_id" : 99,
+		"ejm_institution_id" : 85,
+		"rank" : 60
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Toulouse School of Economics - Toulouse School of Economics",
+		"ejm_organization_id" : 203,
+		"ejm_institution_id" : 86,
+		"rank" : 21
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University College London - Department of Economics",
+		"ejm_organization_id" : 235,
+		"ejm_institution_id" : 90,
+		"rank" : 16
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Washington - Department of Economics",
+		"ejm_organization_id" : 105,
+		"ejm_institution_id" : 91,
+		"rank" : 69
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of New South Wales - School of Banking and Finance",
+		"ejm_organization_id" : 97,
+		"ejm_institution_id" : 93,
+		"rank" : 58
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Monash University - Department of Economics",
+		"ejm_organization_id" : 109,
+		"ejm_institution_id" : 95,
+		"rank" : 41
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Notre Dame - Department of Economics",
+		"ejm_organization_id" : 119,
+		"ejm_institution_id" : 104,
+		"rank" : 77
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Cambridge - Faculty of Economics",
+		"ejm_organization_id" : 139,
+		"ejm_institution_id" : 120,
+		"rank" : 42
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Warwick - Economics",
+		"ejm_organization_id" : 143,
+		"ejm_institution_id" : 124,
+		"rank" : 33
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Southern California - Finance and Business Economics Department",
+		"ejm_organization_id" : 144,
+		"ejm_institution_id" : 125,
+		"rank" : 51
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Pennsylvania State University - Economics",
+		"ejm_organization_id" : 154,
+		"ejm_institution_id" : 134,
+		"rank" : 79
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Pennsylvania - Department of Economics",
+		"ejm_organization_id" : 157,
+		"ejm_institution_id" : 137,
+		"rank" : 6
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "New York University - Economics Department",
+		"ejm_organization_id" : 167,
+		"ejm_institution_id" : 144,
+		"rank" : 9
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Carnegie Mellon University - Heinz College, School of Public Policy and Management",
+		"ejm_organization_id" : 185,
+		"ejm_institution_id" : 158,
+		"rank" : 51
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Rochester, William E. Simon School - Economics and Management",
+		"ejm_organization_id" : 189,
+		"ejm_institution_id" : 161,
+		"rank" : 81
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Mannheim - Department of Economics",
+		"ejm_organization_id" : 204,
+		"ejm_institution_id" : 175,
+		"rank" : 35
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Bonn - Economics Department, Institute for Empirical Economics",
+		"ejm_organization_id" : 215,
+		"ejm_institution_id" : 184,
+		"rank" : 22
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Oxford - Economics",
+		"ejm_organization_id" : 217,
+		"ejm_institution_id" : 186,
+		"rank" : 8
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Universita Commerciale Luigi Bocconi - Bocconi University",
+		"ejm_organization_id" : 220,
+		"ejm_institution_id" : 189,
+		"rank" : 25
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Bologna - Department of Economics",
+		"ejm_organization_id" : 286,
+		"ejm_institution_id" : 246,
+		"rank" : 84
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Vienna - Faculty of Business, Economics and Statistics",
+		"ejm_organization_id" : 298,
+		"ejm_institution_id" : 254,
+		"rank" : 76
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Zurich - Department of Economics (Institute for Empirical Research)",
+		"ejm_organization_id" : 299,
+		"ejm_institution_id" : 255,
+		"rank" : 26
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Queensland - Economics",
+		"ejm_organization_id" : 310,
+		"ejm_institution_id" : 266,
+		"rank" : 96
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Simon Fraser University - Department of Economics",
+		"ejm_organization_id" : 332,
+		"ejm_institution_id" : 286,
+		"rank" : 88
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Melbourne - Department of Economics, Faculty of Business & Economics",
+		"ejm_organization_id" : 334,
+		"ejm_institution_id" : 288,
+		"rank" : 42
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Yale University - economics",
+		"ejm_organization_id" : 336,
+		"ejm_institution_id" : 290,
+		"rank" : 11
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of California Berkeley - Haas School of Business",
+		"ejm_organization_id" : 343,
+		"ejm_institution_id" : 781,
+		"rank" : 4
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Massachusetts Institute of Technology - Department of Economics",
+		"ejm_organization_id" : 361,
+		"ejm_institution_id" : 311,
+		"rank" : 7
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Boston College - Department of Economics",
+		"ejm_organization_id" : 362,
+		"ejm_institution_id" : 312,
+		"rank" : 69
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Lausanne, Switzerland - Faculty of Business and Economics (HEC), Department of Economics",
+		"ejm_organization_id" : 376,
+		"ejm_institution_id" : 326,
+		"rank" : 88
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Chicago - Economics",
+		"ejm_organization_id" : 394,
+		"ejm_institution_id" : 339,
+		"rank" : 2
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Vanderbilt University - Department of Economics",
+		"ejm_organization_id" : 403,
+		"ejm_institution_id" : 347,
+		"rank" : 88
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Harvard University - Department of Economics",
+		"ejm_organization_id" : 406,
+		"ejm_institution_id" : 350,
+		"rank" : 1
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "London School of Economics and Political Science - Department of Economics",
+		"ejm_organization_id" : 407,
+		"ejm_institution_id" : 351,
+		"rank" : 5
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Cornell University - Department of Policy Analysis and Management",
+		"ejm_organization_id" : 420,
+		"ejm_institution_id" : 361,
+		"rank" : 18
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Essex - Economics",
+		"ejm_organization_id" : 428,
+		"ejm_institution_id" : 366,
+		"rank" : 49
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Arizona State University - Finance Department",
+		"ejm_organization_id" : 432,
+		"ejm_institution_id" : 370,
+		"rank" : 72
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "George Washington University - Department of Economics",
+		"ejm_organization_id" : 476,
+		"ejm_institution_id" : 411,
+		"rank" : 84
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Stockholm University - Economics",
+		"ejm_organization_id" : 500,
+		"ejm_institution_id" : 433,
+		"rank" : 71
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "National University of Singapore, Faculty of Arts and Social Sciences - Department of Economics",
+		"ejm_organization_id" : 507,
+		"ejm_institution_id" : 737,
+		"rank" : 27
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Cornell University - College of Human Ecology - Policy Analysis and Management",
+		"ejm_organization_id" : 508,
+		"ejm_institution_id" : 361,
+		"rank" : 18
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The Ohio State University - Economics",
+		"ejm_organization_id" : 499,
+		"ejm_institution_id" : 465,
+		"rank" : 60
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "NUS Business School, National University of Singapore - Department of Strategy and Policy",
+		"ejm_organization_id" : 573,
+		"ejm_institution_id" : 737,
+		"rank" : 27
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Dartmouth College - Economics Department",
+		"ejm_organization_id" : 593,
+		"ejm_institution_id" : 510,
+		"rank" : 83
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Texas A&M University  - Economics",
+		"ejm_organization_id" : 596,
+		"ejm_institution_id" : 513,
+		"rank" : 32
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Tsinghua University, School of Economics and Management - Department of Economics",
+		"ejm_organization_id" : 623,
+		"ejm_institution_id" : 535,
+		"rank" : 86
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Bristol - Department of Economics",
+		"ejm_organization_id" : 633,
+		"ejm_institution_id" : 542,
+		"rank" : 100
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "London Business School - Economics",
+		"ejm_organization_id" : 660,
+		"ejm_institution_id" : 564,
+		"rank" : 98
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Tilburg University - Tilburg School of Economics and Management",
+		"ejm_organization_id" : 669,
+		"ejm_institution_id" : 573,
+		"rank" : 23
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Cologne - Chair of Economics (Decision and Game Theory)",
+		"ejm_organization_id" : 676,
+		"ejm_institution_id" : 579,
+		"rank" : 38
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "National University of Singapore, NUS - Decision Sciences",
+		"ejm_organization_id" : 682,
+		"ejm_institution_id" : 737,
+		"rank" : 27
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The University of Sydney - Faculty of Arts and Social Sciences, School of Economics",
+		"ejm_organization_id" : 688,
+		"ejm_institution_id" : 589,
+		"rank" : 100
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Corpus Christi College - University of Cambridge",
+		"ejm_organization_id" : 741,
+		"ejm_institution_id" : 120,
+		"rank" : 42
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Olin Business School at Washington University in St. Louis - Economics, Olin Business School",
+		"ejm_organization_id" : 760,
+		"ejm_institution_id" : 72,
+		"rank" : 84
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Amsterdam - Center of Job Knowledge Research",
+		"ejm_organization_id" : 763,
+		"ejm_institution_id" : 647,
+		"rank" : 37
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Stockholm School of Economics - Dept. of Economics",
+		"ejm_organization_id" : 765,
+		"ejm_institution_id" : 649,
+		"rank" : 93
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Peking University - School of Economics",
+		"ejm_organization_id" : 767,
+		"ejm_institution_id" : 651,
+		"rank" : 63
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The Pennsylvania State University, Smeal College of Business - Department of Risk Management",
+		"ejm_organization_id" : 775,
+		"ejm_institution_id" : 658,
+		"rank" : 79
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The University of New South Wales - Marketing Services - Advertising",
+		"ejm_organization_id" : 779,
+		"ejm_institution_id" : 93,
+		"rank" : 58
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Perelman School of Medicine, University of Pennsylvania - Medical Ethics and Health Policy",
+		"ejm_organization_id" : 805,
+		"ejm_institution_id" : 137,
+		"rank" : 6
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Munich (LMU) - Department of Economics",
+		"ejm_organization_id" : 811,
+		"ejm_institution_id" : 686,
+		"rank" : 29
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Université catholique de Louvain - Economics School of Louvain",
+		"ejm_organization_id" : 816,
+		"ejm_institution_id" : 691,
+		"rank" : 60
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "National University of Singapore - Global Asia Institute",
+		"ejm_organization_id" : 876,
+		"ejm_institution_id" : 737,
+		"rank" : 27
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "New York University Stern School of Business - Economics",
+		"ejm_organization_id" : 881,
+		"ejm_institution_id" : 144,
+		"rank" : 9
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Princeton University - Economics",
+		"ejm_organization_id" : 886,
+		"ejm_institution_id" : 747,
+		"rank" : 13
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Copenhagen - Department of Economics",
+		"ejm_organization_id" : 902,
+		"ejm_institution_id" : 761,
+		"rank" : 53
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Energy Policy Institute at Chicago, University of Chicago - University of Chicago Urban Energy & Environment Lab",
+		"ejm_organization_id" : 923,
+		"ejm_institution_id" : 339,
+		"rank" : 2
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The Hebrew University of Jerusalem - Department of Economics",
+		"ejm_organization_id" : 1042,
+		"ejm_institution_id" : 866,
+		"rank" : 79
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Johns Hopkins University Paul H. Nitze School of - International Economics",
+		"ejm_organization_id" : 1043,
+		"ejm_institution_id" : 867,
+		"rank" : 66
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Saïd Business School, University of Oxford - FAME",
+		"ejm_organization_id" : 1050,
+		"ejm_institution_id" : 186,
+		"rank" : 8
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Chicago Urban Labs - Urban Energy & Environment Lab",
+		"ejm_organization_id" : 1076,
+		"ejm_institution_id" : 339,
+		"rank" : 2
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Gothenburg - Department of Economics",
+		"ejm_organization_id" : 1077,
+		"ejm_institution_id" : 894,
+		"rank" : 100
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The University of Tokyo - Department of Economics",
+		"ejm_organization_id" : 1106,
+		"ejm_institution_id" : 915,
+		"rank" : 100
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The Ohio State University at Mansfield - Economics",
+		"ejm_organization_id" : 1154,
+		"ejm_institution_id" : 953,
+		"rank" : 60
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Nottingham - Economics",
+		"ejm_organization_id" : 1191,
+		"ejm_institution_id" : 974,
+		"rank" : 38
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Wisconsin - Institute for Research on Poverty",
+		"ejm_organization_id" : 1193,
+		"ejm_institution_id" : 73,
+		"rank" : 31
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Boston University's Questrom School of Business - Markets, Public Policy and Law",
+		"ejm_organization_id" : 1194,
+		"ejm_institution_id" : 29,
+		"rank" : 30
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Erasmus University Rotterdam - Econometric Institute",
+		"ejm_organization_id" : 1217,
+		"ejm_institution_id" : 994,
+		"rank" : 40
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "EdPlus at Arizona State University - Action Lab",
+		"ejm_organization_id" : 1251,
+		"ejm_institution_id" : 1024,
+		"rank" : 72
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Bocconi University - BAFFI-CAREFIN RESEARCH CENTER",
+		"ejm_organization_id" : 1262,
+		"ejm_institution_id" : 189,
+		"rank" : 25
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Peking University HSBC Business School - HR",
+		"ejm_organization_id" : 1273,
+		"ejm_institution_id" : 1043,
+		"rank" : 63
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Tata Center for Development at the University of Chicago - The Harris School of Public Policy",
+		"ejm_organization_id" : 1275,
+		"ejm_institution_id" : 339,
+		"rank" : 2
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Shanghai University of Finance and Economics - School of Finance",
+		"ejm_organization_id" : 1306,
+		"ejm_institution_id" : 1067,
+		"rank" : 56
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Johns Hopkins University-Carey Business School - FINANCE",
+		"ejm_organization_id" : 1328,
+		"ejm_institution_id" : 40,
+		"rank" : 66
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Bristol, School of Economics, Accounting, and Finance - Department of Accounting and Finance",
+		"ejm_organization_id" : 1331,
+		"ejm_institution_id" : 1082,
+		"rank" : 100
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "Singapore Management University - School of Economics",
+		"ejm_organization_id" : 1347,
+		"ejm_institution_id" : 1089,
+		"rank" : 64
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "University of Michigan School of Public Health - Department of Health Management and Policy",
+		"ejm_organization_id" : 1357,
+		"ejm_institution_id" : 2,
+		"rank" : 14
+	},
+	{
+		"ranking_sources_id" : 1,
+		"name" : "The George Washington University - Trachtenberg School of Public Policy and Public Administration",
+		"ejm_organization_id" : 1371,
+		"ejm_institution_id" : 1104,
+		"rank" : 84
+	}
+]
