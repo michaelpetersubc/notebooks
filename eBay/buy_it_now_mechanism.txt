@@ -1,0 +1,11 @@
+It is noteworthy that at the time of the collection of this dataset (around 2005), eBay was using a different buy-it-now mechanism than it is today (June 2020). 
+At that time, the buy-it-now option would disappear once a bidder bids higher than the reserve price. After the option disappears, the auction proceeds as a normal second price auction, where bidders can bid higher than the buy-it-now price.
+
+The way auction works then, in summary, was,
+1) The seller posts the item with the reserve price and the buy-it-now price, with scheduled start time and end time
+2) The first bidder sees the item, s/he has two options:
+	i)  Click the buy-it-now button, pay the buy-it-now price, get the item for sure and the auction ends.
+	ii) Click the make-an-offer button, make an offer higher than the reserve price. This would turn the whole auction to a second price auction without the buy-it-now option, which won’t end until the scheduled end time
+3) For all other bidders, there is no buy-it-now option. It would work exactly as a second price auction.
+
+The change of the mechanism was brought out at around 2007, as this article suggest, https://tamebay.com/2007/06/buy-it-now-will-not-disappear-when-the-first-bid-is-placed.html.
