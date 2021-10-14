@@ -14742,18 +14742,17 @@ $G$ which is assumed to have a compact support bounded below by $1$.</p>
 <p>This won't be quite enough to fit the data, so we'll add other regarding preferences. This consists of a spitefulness term when the other player gets a larger share, and a competitiveness term when the other other player gets a smaller share. To keep things simple, we'll assume the spitefulness term comes as a fixed cost. Alternatively the competitiveness term is a linear function as follows:
 $$
 V\left(x,y,\lambda,r\right)=\begin{cases}
-x-r-\frac{1}{2} &amp; 0\le x&lt;y;s\ge r\\
-\lambda\left(x-r\right)-\frac{1}{2} &amp; 0&lt;x&lt;y;s&lt;r\\
+x-r-\frac{1}{2} &amp; 0\le x&lt;y;x\ge r\\
+\lambda\left(x-r\right)-\frac{1}{2} &amp; 0&lt;x&lt;y;x&lt;r\\
 x-r+\alpha\left(x-y\right) &amp; x\ge y;x\ge r\\
 -\lambda r &amp; x=y=0.
 \end{cases}
 $$</p>
 <p>In this formula, $r$ is the reference offer and $\alpha$ is a positive constant. The reference offer
-is the highest share a player believes he or she can get for sure.
+is the highest share a proposer believes he or she can get for sure.
 For the responder, this will be the lowest offer she expects to receive
-with positive probability. For the proposer, it is the lowest offer
-he or she expects will be accepted by all responders.</p>
-<p>Ideally, we would like to recover the distribution $G$, the reference offer for proposers, along with the constant $\alpha$ measuring the competitiveness term from the data on offers and responses.</p>
+with positive probability.</p>
+<p>Ideally, we would like to recover the distribution $G$, the reference offer for proposers and responders, along with the constant $\alpha$ measuring the competitiveness term from the data on offers and responses.</p>
 
 </div>
 </div></section></section><section><section>
@@ -14898,82 +14897,6 @@ $$</p>
 <p>Then since the function $\hat{G}$  is completely determined by this last operation, the solution to our original problem reduced from finding the solution to a functional equation, to finding the right parameter $\alpha$.</p>
 
 </div>
-</div></section></section><section><section><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">var</span><span class="p">(</span><span class="s1">&#39;x&#39;</span><span class="p">,</span><span class="s1">&#39;s&#39;</span><span class="p">,</span><span class="s1">&#39;r&#39;</span><span class="p">)</span>
-<span class="n">G</span> <span class="o">=</span> <span class="n">function</span><span class="p">(</span><span class="s1">&#39;G&#39;</span><span class="p">)</span>
-<span class="n">Q</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">G</span><span class="p">((</span><span class="n">r</span><span class="o">-</span><span class="n">s</span><span class="o">+</span><span class="mi">1</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="n">r</span><span class="p">)))</span>
-<span class="n">Q</span><span class="o">.</span><span class="n">diff</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[10]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>D[0](G)(1/2*(2*r - 2*s + 1)/r)/r</pre>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">show</span><span class="p">(</span><span class="n">Q</span><span class="o">.</span><span class="n">diff</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">.</span><span class="n">substitute</span><span class="p">(</span><span class="n">s</span><span class="o">=</span><span class="mi">1</span><span class="o">/</span><span class="mi">2</span><span class="p">))</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
-<html><script type="math/tex; mode=display">\newcommand{\Bold}[1]{\mathbf{#1}}\frac{\mathrm{D}_{0}\left(G\right)\left(1\right)}{r}</script></html>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div></section></section>
 </div>
 </div>
